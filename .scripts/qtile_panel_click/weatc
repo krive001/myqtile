@@ -1,0 +1,13 @@
+#!/bin/sh
+
+location="Fábiánháza"
+lang="hu"
+#printf "Beginning upgrade.\\n"
+
+curl "wttr.in/$location?lang=$lang"
+
+
+printf "\\nPress <Enter> to exit window.\\n\\n"
+read -r
+
+

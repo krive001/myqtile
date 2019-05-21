@@ -1,0 +1,19 @@
+#!/bin/sh
+alias p="sudo pacman" \
+	SS="sudo systemctl" \
+	f="$FILE" \
+	g="git" \
+	trem="transmission-remote" \
+	e="$EDITOR" \
+	v="$EDITOR" \
+	x="sxiv -ft *" \
+	sdn="sudo shutdown -h now" \
+	gua="git remote | xargs -L1 git push --all" \
+	ls="ls -hN --color=auto --group-directories-first" \
+	grep="grep --color=auto" \
+	diff="diff --color=auto" \
+	upc="sudo pacman -Syu" \
+	lsp="pacman -Qett --color=always | less" \
+	ffmpeg="ffmpeg -hide_banner" \
+	cl="sudo pacman -Rns $(pacman -Qtdq)"
+

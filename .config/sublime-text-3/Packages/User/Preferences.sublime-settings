@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/Theme - Tech49/Tech49.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Adaptive.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
