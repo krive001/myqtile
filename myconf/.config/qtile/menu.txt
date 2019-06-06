@@ -1,0 +1,123 @@
+Print                | Create printscreen scrot.         
+XF86AudioLowerVolume | Volume down 5%.                   
+XF86AudioMute        | Volume mute.                      
+XF86AudioNext        | Next                              
+XF86AudioPause       | Pause                             
+XF86AudioPlay        | Play                              
+XF86AudioPrev        | Previous                          
+XF86AudioRaiseVolume | Volume up 5%.                     
+control+mod1+Return  | Open termite                      
+control+mod1+a       | Open atom.                        
+control+mod1+b       | Open thunar.                      
+control+mod1+c       | Open catfish.                     
+control+mod1+e       | Open evolution.                   
+control+mod1+f       | Open firefox.                     
+control+mod1+g       | Open chromium no default check.   
+control+mod1+i       | Open nitrogen.                    
+control+mod1+k       | Open slimlock.                    
+control+mod1+m       | Open xfce4 settings manager.      
+control+mod1+o       | compton toggle.                   
+control+mod1+r       | Open rofi theme selector.         
+control+mod1+s       | Open sublime text (not registred).
+control+mod1+t       | Open termite.                     
+control+mod1+u       | Open pavucontrol.                 
+control+mod1+v       | Open my browser.                  
+control+mod1+w       | Open atom.                        
+control+mod4+Down    | csak                              
+control+mod4+Left    |                                   
+control+mod4+Right   |                                   
+control+mod4+Up      |                                   
+control+mod4+h       |                                   
+control+mod4+j       |                                   
+control+mod4+k       |                                   
+control+mod4+l       | valami                            
+mod1+Down            | variety                           
+mod1+F2              |                                   
+mod1+F3              |                                   
+mod1+Left            |                                   
+mod1+Right           |                                   
+mod1+Tab             | next layout.                      
+mod1+Up              |                                   
+mod1+f               |                                   
+mod1+mod4+5          | layout size 500.                  
+mod1+mod4+Down       | layout down.                      
+mod1+mod4+Left       | layout left.                      
+mod1+mod4+Right      | layout up.                        
+mod1+mod4+Up         | layout .                          
+mod1+mod4+h          | flip left layout.                 
+mod1+mod4+j          | flip down layout.                 
+mod1+mod4+k          | flip up layout.                   
+mod1+mod4+l          | flip right layout.                
+mod1+n               |                                   
+mod1+p               |                                   
+mod1+space           | previous layout.                  
+mod1+t               |                                   
+mod4+0               |                                   
+mod4+1               |                                   
+mod4+2               |                                   
+mod4+3               |                                   
+mod4+4               |                                   
+mod4+5               |                                   
+mod4+6               |                                   
+mod4+7               |                                   
+mod4+8               |                                   
+mod4+9               |                                   
+mod4+F1              |                                   
+mod4+F10             |                                   
+mod4+F11L1           |                                   
+mod4+F12L2           |                                   
+mod4+F2              |                                   
+mod4+F3              |                                   
+mod4+F4              |                                   
+mod4+F5              |                                   
+mod4+F6              |                                   
+mod4+F7              |                                   
+mod4+F8              | Open Thunar                       
+mod4+F9              |                                   
+mod4+Left            | previous group .                  
+mod4+Print           |                                   
+mod4+Return          | Open my terminator.               
+mod4+Right           | next group.                       
+mod4+Tab             | next layout.                      
+mod4+a               | Open pamac manager.               
+mod4+c               | Open discord.                     
+mod4+d               | Open rofi run.                    
+mod4+e               | Open subl.                        
+mod4+f               | fullscreen.                       
+mod4+h               | Open htop.                        
+mod4+k               |                                   
+mod4+m               | Bsp layout maximize.              
+mod4+n               | Bsp layout normalize.             
+mod4+p               | Open rofi pass.                   
+mod4+q               | kill window.                      
+mod4+r               | Open dmenu_run.                   
+mod4+space           | previous layout.                  
+mod4+t               | Open termite.                     
+mod4+v               | Open pavucontrol.                 
+mod4+w               | Open my browser.                  
+mod4+x               | Open oblogout.                    
+shift+mod4+0         |                                   
+shift+mod4+1         |                                   
+shift+mod4+2         |                                   
+shift+mod4+3         |                                   
+shift+mod4+4         |                                   
+shift+mod4+5         |                                   
+shift+mod4+6         |                                   
+shift+mod4+7         |                                   
+shift+mod4+8         |                                   
+shift+mod4+9         |                                   
+shift+mod4+Down      |                                   
+shift+mod4+Left      |                                   
+shift+mod4+Print     | sds                               
+shift+mod4+Return    |                                   
+shift+mod4+Right     |                                   
+shift+mod4+Up        |                                   
+shift+mod4+f         |                                   
+shift+mod4+h         |                                   
+shift+mod4+j         |                                   
+shift+mod4+k         |                                   
+shift+mod4+l         |                                   
+shift+mod4+m         |                                   
+shift+mod4+q         |                                   
+shift+mod4+r         |                                   
+shift+mod4+space     | Layout rotate.                    

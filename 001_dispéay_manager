@@ -1,0 +1,31 @@
+#!/bin/bash
+
+dm=$( grep '/usr/' /etc/systemd/system/display-manager.service | cut -d '/' -f4)
+echo Uses the $dm display manager.
+
+if [ "$dm" != "lxdm" ]
+then
+    while true
+        do
+            read -r -p "Install LXDM? [Y/n] " input
+            
+            case $input in
+                [yY][eE][sS]|[yY]|'')
+            sudo pacman -S lxdm --noconfirm --needed
+            yay -S lxdm-themes --noconfirm --needed
+            sudo cp etc/lxdm/lxdm.conf /etc/lxdm/
+            sudo systemctl set-default graphical.target
+            sudo systemctl disable $dm.service 
+            sudo systemctl enable lxdm.service
+            echo "LXDM installed." 
+            exit 1
+            ;;
+                [nN][oO]|[nN])
+            exit 1
+            ;;
+                *)
+            echo "Invalid input..."
+            ;;
+            esac
+    done
+fi

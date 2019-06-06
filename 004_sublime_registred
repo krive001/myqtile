@@ -1,0 +1,26 @@
+#!/bin/bash
+
+curl -O https://download.sublimetext.com/sublimehq-pub.gpg && sudo pacman-key --add sublimehq-pub.gpg && sudo pacman-key --lsign-key 8A8F901A && rm sublimehq-pub.gpg
+
+while true
+    do
+        read -r -p "Select (1)Stable (2)Dev versions. [1/2] " input
+        
+        case $input in
+            1|'')
+        echo -e "\n[sublime-text]\nServer = https://download.sublimetext.com/arch/stable/x86_64" | sudo tee -a /etc/pacman.conf
+        sudo pacman -Syu sublime-text
+        echo "Sublime-text installed"
+        exit 1
+        ;;
+            2)
+        echo -e "\n[sublime-text]\nServer = https://download.sublimetext.com/arch/dev/x86_64" | sudo tee -a /etc/pacman.conf
+        sudo pacman -Syu sublime-text
+        echo "Sublime-text installed"
+        exit 1
+        ;;
+            *)
+        echo "Invalid input..."
+        ;;
+        esac
+done

@@ -1,0 +1,15 @@
+#!/bin/bash
+
+echo "Qtile install..."
+sudo pacman -S qtile python-setuptools python-xdg pango python-xcffib python-cairocffi python-dbus python-gobject  --noconfirm --needed
+echo "Install dependency..."
+sudo pacman -S lm_sensors dunst pacman-contrib python-requests htop mpd mpc --noconfirm --needed
+echo "WInstall fonts...""
+yay -S ttf-font-awesome-4 ttf-emojione --noconfirm --needed
+sudo pacman -S ttf-inconsolata 
+echo "Install other package..."
+sudo pacman -S feh network-manager-applet polkit polkit-gnome xcompmgr --noconfirm --needed
+sudo pacman -S rofi chromium lxappearance qt5ct kvantum-qt5 arc-gtk-theme --noconfirm --needed
+echo "install terminal..."
+sudo pacman -S rxvt-unicode urxvt-perls mc --noconfirm --needed
+yay -S urxvt-resize-font-git --noconfirm --needed
