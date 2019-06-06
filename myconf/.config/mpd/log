@@ -1,0 +1,2258 @@
+May 25 14:30 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 14:30 : exception: Failed to open '/home/krive/.config/mpd/state': No such file or directory
+May 25 14:30 : exception: Failed to access /home/krive/Music: No such file or directory
+May 25 14:30 : client: [0] opened from [::1]:38146
+May 25 17:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 17:51 : client: [0] opened from [::1]:39426
+May 25 17:51 : client: [1] opened from [::1]:39428
+May 25 17:51 : client: [2] opened from [::1]:39430
+May 25 17:51 : client: [3] opened from [::1]:39432
+May 25 18:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 18:02 : client: [0] opened from [::1]:41934
+May 25 18:02 : client: [0] closed
+May 25 18:02 : client: [1] opened from [::1]:41936
+May 25 18:02 : client: [2] opened from [::1]:41938
+May 25 18:02 : client: [3] opened from [::1]:41940
+May 25 18:02 : client: [4] opened from [::1]:41942
+May 25 18:03 : client: [1] closed
+May 25 18:03 : client: [2] closed
+May 25 18:03 : client: [3] closed
+May 25 18:03 : client: [4] closed
+May 25 18:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 18:07 : exception: Failed to commit /home/krive/.config/mpd/state: File exists
+May 25 18:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 18:07 : client: [0] opened from [::1]:41982
+May 25 18:07 : client: [1] opened from [::1]:41984
+May 25 18:07 : client: [2] opened from [::1]:41986
+May 25 18:07 : client: [3] opened from [::1]:41988
+May 25 18:08 : client: [0] closed
+May 25 18:08 : client: [1] closed
+May 25 18:08 : client: [2] closed
+May 25 18:08 : client: [3] closed
+May 25 18:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 18:38 : client: [0] opened from [::1]:59178
+May 25 18:38 : client: [0] closed
+May 25 18:38 : client: [1] opened from [::1]:59180
+May 25 18:38 : client: [2] opened from [::1]:59182
+May 25 18:38 : client: [3] opened from [::1]:59184
+May 25 18:38 : client: [4] opened from [::1]:59186
+May 25 18:38 : client: [5] opened from [::1]:59198
+May 25 18:39 : client: [1] closed
+May 25 18:39 : client: [2] closed
+May 25 18:39 : client: [3] closed
+May 25 18:39 : client: [4] closed
+May 25 18:40 : update: added /KOWALSKY MEG A VEGA - REMÉNY (Official).mp3
+May 25 18:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 18:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 18:43 : client: [6] opened from [::1]:59276
+May 25 18:43 : client: [7] opened from [::1]:59278
+May 25 18:43 : client: [8] opened from [::1]:59280
+May 25 18:43 : client: [9] opened from [::1]:59282
+May 25 18:43 : client: [9] closed
+May 25 18:43 : client: [8] closed
+May 25 18:43 : client: [7] closed
+May 25 18:43 : client: [6] closed
+May 25 18:43 : client: [10] opened from [::1]:59294
+May 25 18:43 : client: [11] opened from [::1]:59296
+May 25 18:43 : client: [12] opened from [::1]:59298
+May 25 18:43 : client: [13] opened from [::1]:59300
+May 25 18:43 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 18:43 : exception: Not playing
+May 25 18:43 : exception: Not playing
+May 25 18:43 : exception: Not playing
+May 25 18:43 : exception: Not playing
+May 25 18:43 : exception: Not playing
+May 25 18:43 : exception: Not playing
+May 25 18:43 : exception: Not playing
+May 25 18:43 : exception: Not playing
+May 25 18:43 : exception: Not playing
+May 25 18:43 : exception: Not playing
+May 25 18:43 : exception: Not playing
+May 25 18:43 : exception: Not playing
+May 25 18:43 : exception: Not playing
+May 25 18:43 : exception: Not playing
+May 25 18:43 : exception: Not playing
+May 25 18:43 : exception: Not playing
+May 25 18:43 : exception: Not playing
+May 25 18:43 : exception: Not playing
+May 25 18:43 : exception: Not playing
+May 25 18:43 : exception: Not playing
+May 25 18:43 : exception: Not playing
+May 25 18:43 : exception: Not playing
+May 25 18:43 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 18:43 : exception: Not playing
+May 25 18:43 : exception: Not playing
+May 25 18:43 : exception: Not playing
+May 25 18:43 : exception: Not playing
+May 25 18:43 : exception: Not playing
+May 25 18:43 : exception: Not playing
+May 25 18:44 : client: [5] closed
+May 25 18:44 : client: [13] closed
+May 25 18:44 : client: [12] closed
+May 25 18:44 : client: [11] closed
+May 25 18:44 : client: [10] closed
+May 25 18:44 : client: [14] opened from [::1]:59308
+May 25 18:44 : client: [15] opened from [::1]:59310
+May 25 18:44 : client: [16] opened from [::1]:59312
+May 25 18:44 : client: [17] opened from [::1]:59314
+May 25 18:45 : client: [14] closed
+May 25 18:45 : client: [15] closed
+May 25 18:45 : client: [16] closed
+May 25 18:45 : client: [17] closed
+May 25 18:46 : client: [18] opened from [::1]:59326
+May 25 18:46 : client: [19] opened from [::1]:59328
+May 25 18:46 : client: [20] opened from [::1]:59330
+May 25 18:46 : client: [21] opened from [::1]:59332
+May 25 18:46 : client: [21] closed
+May 25 18:46 : client: [20] closed
+May 25 18:46 : client: [19] closed
+May 25 18:46 : client: [18] closed
+May 25 18:47 : client: [22] opened from [::1]:59340
+May 25 18:47 : client: [23] opened from [::1]:59342
+May 25 18:47 : client: [24] opened from [::1]:59344
+May 25 18:47 : client: [25] opened from [::1]:59346
+May 25 18:48 : client: [22] closed
+May 25 18:48 : client: [23] closed
+May 25 18:48 : client: [24] closed
+May 25 18:53 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 18:53 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 18:54 : client: [25] closed
+May 25 18:57 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 19:00 : client: [26] opened from [::1]:59528
+May 25 19:00 : client: [27] opened from [::1]:59530
+May 25 19:00 : client: [28] opened from [::1]:59532
+May 25 19:00 : client: [29] opened from [::1]:59534
+May 25 19:01 : client: [26] closed
+May 25 19:01 : client: [27] closed
+May 25 19:01 : client: [28] closed
+May 25 19:01 : client: [29] closed
+May 25 19:01 : client: [30] opened from [::1]:59546
+May 25 19:01 : client: [31] opened from [::1]:59548
+May 25 19:01 : client: [32] opened from [::1]:59550
+May 25 19:01 : client: [33] opened from [::1]:59552
+May 25 19:02 : client: [33] closed
+May 25 19:02 : client: [32] closed
+May 25 19:02 : client: [31] closed
+May 25 19:02 : client: [30] closed
+May 25 19:02 : client: [34] opened from [::1]:59560
+May 25 19:02 : client: [35] opened from [::1]:59562
+May 25 19:02 : client: [36] opened from [::1]:59564
+May 25 19:02 : client: [37] opened from [::1]:59566
+May 25 19:02 : client: [37] closed
+May 25 19:02 : client: [36] closed
+May 25 19:02 : client: [35] closed
+May 25 19:02 : client: [34] closed
+May 25 19:02 : client: [38] opened from [::1]:59574
+May 25 19:02 : client: [39] opened from [::1]:59576
+May 25 19:02 : client: [40] opened from [::1]:59578
+May 25 19:02 : client: [41] opened from [::1]:59580
+May 25 19:02 : client: [41] closed
+May 25 19:02 : client: [40] closed
+May 25 19:02 : client: [39] closed
+May 25 19:02 : client: [38] closed
+May 25 19:02 : client: [42] opened from [::1]:59588
+May 25 19:03 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 19:03 : exception: Not playing
+May 25 19:03 : exception: Not playing
+May 25 19:03 : exception: Not playing
+May 25 19:03 : exception: Not playing
+May 25 19:03 : exception: Not playing
+May 25 19:03 : exception: Not playing
+May 25 19:03 : exception: Not playing
+May 25 19:03 : exception: Not playing
+May 25 19:03 : exception: Not playing
+May 25 19:03 : exception: Not playing
+May 25 19:03 : exception: Not playing
+May 25 19:03 : exception: Not playing
+May 25 19:03 : exception: Not playing
+May 25 19:03 : exception: Not playing
+May 25 19:03 : exception: Not playing
+May 25 19:03 : exception: Not playing
+May 25 19:03 : exception: Not playing
+May 25 19:03 : exception: Not playing
+May 25 19:03 : exception: Not playing
+May 25 19:03 : exception: Not playing
+May 25 19:03 : exception: Not playing
+May 25 19:03 : exception: Not playing
+May 25 19:03 : exception: Not playing
+May 25 19:03 : exception: Not playing
+May 25 19:03 : exception: Not playing
+May 25 19:03 : exception: Not playing
+May 25 19:03 : exception: Not playing
+May 25 19:03 : exception: Not playing
+May 25 19:03 : exception: Not playing
+May 25 19:03 : exception: Not playing
+May 25 19:05 : exception: Not playing
+May 25 19:05 : exception: Not playing
+May 25 19:05 : client: [42] closed
+May 25 19:05 : client: [43] opened from [::1]:59612
+May 25 19:05 : client: [44] opened from [::1]:59614
+May 25 19:05 : client: [45] opened from [::1]:59616
+May 25 19:05 : client: [46] opened from [::1]:59618
+May 25 19:06 : client: [43] closed
+May 25 19:06 : client: [44] closed
+May 25 19:06 : client: [45] closed
+May 25 19:06 : client: [46] closed
+May 25 19:06 : client: [47] opened from [::1]:59630
+May 25 19:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 19:07 : client: [0] opened from [::1]:59654
+May 25 19:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 19:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 19:08 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 19:09 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 19:09 : exception: Not playing
+May 25 19:17 : client: [0] closed
+May 25 19:17 : client: [1] opened from [::1]:59716
+May 25 19:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 19:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 19:17 : exception: Failed to commit /home/krive/.config/mpd/state: File exists
+May 25 19:17 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 19:17 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 19:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 19:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 19:17 : client: [0] opened from [::1]:59740
+May 25 19:17 : client: [0] closed
+May 25 19:17 : client: [1] opened from [::1]:59742
+May 25 19:18 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 19:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 19:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 19:18 : client: [0] opened from [::1]:59762
+May 25 19:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 19:18 : client: [0] closed
+May 25 19:18 : client: [1] opened from [::1]:59764
+May 25 19:18 : client: [1] closed
+May 25 19:19 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 19:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 19:19 : client: [0] opened from [::1]:59830
+May 25 19:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 19:19 : client: [0] closed
+May 25 19:19 : client: [1] opened from [::1]:59834
+May 25 19:20 : client: [1] closed
+May 25 19:20 : client: [2] opened from [::1]:59844
+May 25 19:20 : client: [2] closed
+May 25 19:20 : client: [3] opened from [::1]:59852
+May 25 19:22 : client: [3] closed
+May 25 19:22 : client: [4] opened from [::1]:59970
+May 25 19:23 : client: [4] closed
+May 25 19:23 : client: [5] opened from [::1]:59978
+May 25 19:24 : client: [5] closed
+May 25 19:24 : client: [6] opened from [::1]:59996
+May 25 19:24 : client: [7] opened from [::1]:59998
+May 25 19:24 : client: [8] opened from [::1]:60000
+May 25 19:24 : client: [9] opened from [::1]:60002
+May 25 19:24 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 19:24 : client: [9] closed
+May 25 19:24 : client: [8] closed
+May 25 19:24 : client: [7] closed
+May 25 19:24 : client: [6] closed
+May 25 19:24 : client: [10] opened from [::1]:60012
+May 25 19:24 : client: [11] opened from [::1]:60014
+May 25 19:24 : client: [12] opened from [::1]:60016
+May 25 19:24 : client: [13] opened from [::1]:60018
+May 25 19:24 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 19:25 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 19:25 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 19:25 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 19:25 : exception: Not playing
+May 25 19:25 : exception: Not playing
+May 25 19:25 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 19:25 : client: [13] closed
+May 25 19:25 : client: [12] closed
+May 25 19:25 : client: [11] closed
+May 25 19:25 : client: [10] closed
+May 25 19:25 : client: [14] opened from [::1]:60026
+May 25 19:27 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 19:27 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 19:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 19:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 19:27 : client: [0] opened from [::1]:60082
+May 25 19:27 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 19:32 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 19:38 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 19:46 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 19:47 : client: [1] opened from [::1]:60186
+May 25 19:48 : client: [1] closed
+May 25 19:55 : client: [0] closed
+May 25 19:55 : client: [2] opened from [::1]:60240
+May 25 19:56 : client: [2] closed
+May 25 19:56 : client: [3] opened from [::1]:60248
+May 25 19:57 : client: [3] closed
+May 25 19:57 : client: [4] opened from [::1]:60256
+May 25 20:00 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 20:09 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 20:14 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 20:16 : client: [4] closed
+May 25 20:16 : client: [5] opened from [::1]:60528
+May 25 20:17 : client: [5] closed
+May 25 20:18 : client: [6] opened from [::1]:60536
+May 25 20:18 : client: [6] closed
+May 25 20:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 20:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 20:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 20:18 : client: [0] opened from [::1]:60618
+May 25 20:23 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 20:28 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 21:53 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 21:54 : client: [0] closed
+May 25 21:54 : client: [1] opened from [::1]:32892
+May 25 21:55 : client: [1] closed
+May 25 21:55 : client: [2] opened from [::1]:32904
+May 25 21:56 : client: [2] closed
+May 25 21:56 : client: [3] opened from [::1]:32912
+May 25 21:57 : client: [3] closed
+May 25 21:57 : client: [4] opened from [::1]:32920
+May 25 21:59 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 22:01 : client: [4] closed
+May 25 22:01 : client: [5] opened from [::1]:33078
+May 25 22:03 : client: [5] closed
+May 25 22:03 : client: [6] opened from [::1]:33094
+May 25 22:06 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 22:11 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 22:13 : client: [6] closed
+May 25 22:13 : client: [7] opened from [::1]:33156
+May 25 22:17 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 22:41 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 22:42 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 22:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 22:42 : client: [0] opened from [::1]:33800
+May 25 22:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 22:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 22:42 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 22:42 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 22:42 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 22:43 : client: [1] opened from [::1]:33808
+May 25 22:43 : update: added /Best Electro House Mix 2019Best of EDMNew Party Club Dance Music Remix.mp3
+May 25 22:43 : client: [1] closed
+May 25 22:44 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 22:44 : client: [0] closed
+May 25 22:44 : client: [2] opened from [::1]:33818
+May 25 22:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 22:45 : client: [0] opened from [::1]:39078
+May 25 22:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 22:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 22:45 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 22:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 22:47 : client: [0] opened from [::1]:39114
+May 25 22:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 22:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 22:47 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 22:47 : exception: Not playing
+May 25 22:47 : exception: Not playing
+May 25 22:47 : exception: Not playing
+May 25 22:51 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 22:56 : client: [1] opened from [::1]:39274
+May 25 22:57 : client: [1] closed
+May 25 22:58 : client: [0] closed
+May 25 22:58 : client: [2] opened from [::1]:39288
+May 25 22:58 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 25 22:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 22:58 : client: [0] opened from [::1]:39324
+May 25 22:59 : client: [1] opened from [::1]:39326
+May 25 22:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 23:00 : exception: Failed to open audio output
+May 25 23:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 23:00 : client: [1] closed
+May 25 23:00 : player: played "Best Electro House Mix 2019Best of EDMNew Party Club Dance Music Remix.mp3"
+May 25 23:01 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 23:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 23:01 : client: [0] opened from [::1]:58156
+May 26 11:10 : client: [0] closed
+May 26 11:10 : client: [1] opened from [::1]:34474
+May 26 11:13 : client: [1] closed
+May 26 11:13 : client: [2] opened from [::1]:34510
+May 26 11:13 : client: [2] closed
+May 26 11:13 : client: [3] opened from [::1]:34520
+May 26 11:14 : client: [3] closed
+May 26 11:14 : client: [4] opened from [::1]:34528
+May 26 11:14 : client: [4] closed
+May 26 11:14 : client: [5] opened from [::1]:34536
+May 26 11:16 : client: [5] closed
+May 26 11:16 : client: [6] opened from [::1]:34564
+May 26 11:17 : client: [6] closed
+May 26 11:17 : client: [7] opened from [::1]:34574
+May 26 11:18 : client: [7] closed
+May 26 11:18 : client: [8] opened from [::1]:34586
+May 26 12:42 : client: [8] closed
+May 26 12:42 : client: [9] opened from [::1]:35134
+May 26 12:45 : client: [9] closed
+May 26 12:45 : client: [10] opened from [::1]:35154
+May 26 12:47 : client: [10] closed
+May 26 12:47 : client: [11] opened from [::1]:35174
+May 26 12:47 : client: [11] closed
+May 26 12:47 : client: [12] opened from [::1]:35182
+May 26 12:48 : client: [12] closed
+May 26 12:48 : client: [13] opened from [::1]:35190
+May 26 12:48 : client: [13] closed
+May 26 12:48 : client: [14] opened from [::1]:35202
+May 26 12:49 : client: [14] closed
+May 26 12:49 : client: [15] opened from [::1]:35210
+May 26 12:49 : client: [15] closed
+May 26 12:49 : client: [16] opened from [::1]:35218
+May 26 12:50 : client: [16] closed
+May 26 12:50 : client: [17] opened from [::1]:35226
+May 26 12:51 : client: [17] closed
+May 26 12:51 : client: [18] opened from [::1]:35252
+May 26 12:53 : client: [18] closed
+May 26 12:53 : client: [19] opened from [::1]:35266
+May 26 12:53 : client: [19] closed
+May 26 12:53 : client: [20] opened from [::1]:35276
+May 26 12:54 : client: [20] closed
+May 26 12:54 : client: [21] opened from [::1]:35290
+May 26 12:54 : player: played "Best Electro House Mix 2019Best of EDMNew Party Club Dance Music Remix.mp3"
+May 26 12:55 : client: [21] closed
+May 26 12:55 : client: [22] opened from [::1]:35298
+May 26 13:01 : client: [22] closed
+May 26 13:01 : client: [23] opened from [::1]:35368
+May 26 13:02 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 26 13:03 : client: [23] closed
+May 26 13:03 : client: [24] opened from [::1]:35390
+May 26 13:05 : client: [24] closed
+May 26 13:05 : client: [25] opened from [::1]:35406
+May 26 13:06 : client: [25] closed
+May 26 13:06 : client: [26] opened from [::1]:35416
+May 26 13:07 : client: [26] closed
+May 26 13:07 : client: [27] opened from [::1]:35432
+May 26 13:08 : client: [27] closed
+May 26 13:08 : client: [28] opened from [::1]:35440
+May 26 13:10 : client: [28] closed
+May 26 13:10 : client: [29] opened from [::1]:35460
+May 26 13:11 : client: [29] closed
+May 26 13:11 : client: [30] opened from [::1]:35476
+May 26 13:12 : client: [30] closed
+May 26 13:12 : client: [31] opened from [::1]:35484
+May 26 13:14 : client: [31] closed
+May 26 13:14 : client: [32] opened from [::1]:35500
+May 26 13:14 : client: [32] closed
+May 26 13:14 : client: [33] opened from [::1]:35508
+May 26 14:17 : player: played "Best Electro House Mix 2019Best of EDMNew Party Club Dance Music Remix.mp3"
+May 26 14:17 : exception: Not playing
+May 26 14:23 : client: [33] closed
+May 26 14:38 : player: played "Best Electro House Mix 2019Best of EDMNew Party Club Dance Music Remix.mp3"
+May 26 14:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 26 14:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 26 14:39 : client: [0] opened from [::1]:36072
+May 26 14:40 : client: [0] closed
+May 26 14:40 : client: [1] opened from [::1]:36078
+May 26 14:44 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 26 14:53 : client: [1] closed
+May 26 14:53 : client: [2] opened from [::1]:36162
+May 26 14:54 : client: [2] closed
+May 26 14:57 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 26 14:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 26 14:57 : client: [0] opened from [::1]:36342
+May 26 17:35 : client: [0] closed
+May 26 17:35 : client: [1] opened from [::1]:37164
+May 26 17:36 : client: [1] closed
+May 26 17:36 : client: [2] opened from [::1]:37176
+May 26 17:56 : client: [2] closed
+May 27 08:25 : client: [3] opened from [::1]:43448
+May 27 10:59 : client: [3] closed
+May 27 10:59 : client: [4] opened from [::1]:44530
+May 27 10:59 : client: [4] closed
+May 27 10:59 : client: [5] opened from [::1]:44538
+May 27 11:01 : client: [5] closed
+May 27 11:01 : client: [6] opened from [::1]:44558
+May 27 11:03 : client: [6] closed
+May 27 11:03 : client: [7] opened from [::1]:44572
+May 27 11:03 : player: played "Best Electro House Mix 2019Best of EDMNew Party Club Dance Music Remix.mp3"
+May 27 11:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 11:03 : exception: Failed to decode /home/krive/Zenék/Best Electro House Mix 2019Best of EDMNew Party Club Dance Music Remix.mp3
+May 27 11:03 : exception: nested: Failed to open '/home/krive/Zenék/Best Electro House Mix 2019Best of EDMNew Party Club Dance Music Remix.mp3': No such file or directory
+May 27 11:03 : player: played "Best Electro House Mix 2019Best of EDMNew Party Club Dance Music Remix.mp3"
+May 27 11:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 11:03 : client: [0] opened from [::1]:44592
+May 27 11:03 : exception: Failed to decode /home/krive/Zenék/Best Electro House Mix 2019Best of EDMNew Party Club Dance Music Remix.mp3
+May 27 11:03 : exception: nested: Failed to open '/home/krive/Zenék/Best Electro House Mix 2019Best of EDMNew Party Club Dance Music Remix.mp3': No such file or directory
+May 27 11:03 : player: played "Best Electro House Mix 2019Best of EDMNew Party Club Dance Music Remix.mp3"
+May 27 11:03 : exception: Failed to decode /home/krive/Zenék/Best Electro House Mix 2019Best of EDMNew Party Club Dance Music Remix.mp3
+May 27 11:03 : exception: nested: Failed to open '/home/krive/Zenék/Best Electro House Mix 2019Best of EDMNew Party Club Dance Music Remix.mp3': No such file or directory
+May 27 11:03 : player: played "Best Electro House Mix 2019Best of EDMNew Party Club Dance Music Remix.mp3"
+May 27 11:03 : exception: Failed to decode /home/krive/Zenék/Best Electro House Mix 2019Best of EDMNew Party Club Dance Music Remix.mp3
+May 27 11:03 : exception: nested: Failed to open '/home/krive/Zenék/Best Electro House Mix 2019Best of EDMNew Party Club Dance Music Remix.mp3': No such file or directory
+May 27 11:04 : exception: Failed to decode /home/krive/Zenék/Best Electro House Mix 2019Best of EDMNew Party Club Dance Music Remix.mp3
+May 27 11:04 : exception: nested: Failed to open '/home/krive/Zenék/Best Electro House Mix 2019Best of EDMNew Party Club Dance Music Remix.mp3': No such file or directory
+May 27 11:04 : player: played "Best Electro House Mix 2019Best of EDMNew Party Club Dance Music Remix.mp3"
+May 27 11:04 : exception: Failed to decode /home/krive/Zenék/Best Electro House Mix 2019Best of EDMNew Party Club Dance Music Remix.mp3
+May 27 11:04 : exception: nested: Failed to open '/home/krive/Zenék/Best Electro House Mix 2019Best of EDMNew Party Club Dance Music Remix.mp3': No such file or directory
+May 27 11:04 : client: [1] opened from [::1]:44594
+May 27 11:04 : update: removing Best Electro House Mix 2019Best of EDMNew Party Club Dance Music Remix.mp3
+May 27 11:04 : update: added /Best Electro House Mix 2019 Remix.mp3
+May 27 11:04 : client: [1] closed
+May 27 11:18 : player: played "Best Electro House Mix 2019 Remix.mp3"
+May 27 11:18 : exception: Not playing
+May 27 11:21 : client: [0] closed
+May 27 11:21 : client: [2] opened from [::1]:44708
+May 27 11:21 : client: [2] closed
+May 27 11:21 : client: [3] opened from [::1]:44716
+May 27 11:22 : client: [3] closed
+May 27 11:22 : client: [4] opened from [::1]:44730
+May 27 11:23 : client: [4] closed
+May 27 11:23 : client: [5] opened from [::1]:44738
+May 27 11:23 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 27 11:26 : client: [5] closed
+May 27 11:26 : client: [6] opened from [::1]:44754
+May 27 11:28 : client: [6] closed
+May 27 11:28 : client: [7] opened from [::1]:44776
+May 27 11:28 : client: [7] closed
+May 27 11:28 : client: [8] opened from [::1]:44784
+May 27 11:31 : client: [8] closed
+May 27 11:31 : client: [9] opened from [::1]:44806
+May 27 11:33 : client: [9] closed
+May 27 11:33 : client: [10] opened from [::1]:44820
+May 27 14:01 : client: [10] closed
+May 27 14:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 14:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 14:06 : client: [0] opened from [::1]:46158
+May 27 14:39 : client: [0] closed
+May 27 14:39 : client: [1] opened from [::1]:46580
+May 27 15:05 : client: [1] closed
+May 27 15:05 : client: [2] opened from [::1]:46738
+May 27 15:27 : player: played "Best Electro House Mix 2019 Remix.mp3"
+May 27 15:29 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 15:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 15:29 : client: [0] opened from [::1]:42988
+May 27 15:29 : player: played "Best Electro House Mix 2019 Remix.mp3"
+May 27 15:30 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 15:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 15:30 : client: [0] opened from [::1]:51082
+May 27 15:58 : player: played "Best Electro House Mix 2019 Remix.mp3"
+May 27 15:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 15:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 15:58 : client: [0] opened from [::1]:57442
+May 27 16:17 : player: played "Best Electro House Mix 2019 Remix.mp3"
+May 27 16:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 16:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 16:18 : client: [0] opened from [::1]:47246
+May 27 16:18 : player: played "Best Electro House Mix 2019 Remix.mp3"
+May 27 16:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 16:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 16:20 : client: [0] opened from [::1]:36378
+                                                                      May 27 16:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 16:43 : client: [0] opened from [::1]:46002
+May 27 16:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 16:45 : client: [0] opened from [::1]:48672
+May 27 16:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 16:51 : client: [0] opened from [::1]:55552
+May 27 16:53 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 16:53 : client: [0] opened from [::1]:43704
+May 27 16:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 16:55 : client: [0] opened from [::1]:59332
+May 27 17:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 17:12 : client: [0] opened from [::1]:46390
+May 27 17:44 : client: [0] closed
+May 27 17:44 : client: [1] opened from [::1]:47312
+May 27 17:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 17:46 : client: [0] opened from [::1]:38086
+May 27 17:49 : client: [0] closed
+May 27 17:49 : client: [1] opened from [::1]:38292
+May 27 18:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 18:42 : client: [0] opened from [::1]:48608
+May 27 18:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 18:45 : client: [0] opened from [::1]:56758
+May 27 18:45 : exception: Not playing
+May 27 18:45 : exception: Not playing
+May 27 18:46 : client: [1] opened from [::1]:56782
+May 27 18:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 18:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 18:47 : player: played "Best Electro House Mix 2019 Remix.mp3"
+May 27 18:47 : exception: Not playing
+May 27 18:47 : exception: Not playing
+May 27 18:47 : player: played "Best Electro House Mix 2019 Remix.mp3"
+May 27 18:48 : client: [1] closed
+May 27 18:50 : client: [0] closed
+May 27 18:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 18:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 18:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 18:50 : client: [0] opened from [::1]:56818
+May 27 18:50 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 27 18:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 18:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 18:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 18:50 : client: [0] opened from [::1]:56834
+May 27 18:50 : client: [1] opened from [::1]:56836
+May 27 18:51 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 27 18:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 18:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 18:51 : client: [0] opened from [::1]:56856
+May 27 18:51 : client: [1] opened from [::1]:56858
+May 27 18:51 : client: [2] opened from [::1]:56860
+May 27 18:51 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 27 18:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 18:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 18:51 : client: [0] opened from [::1]:51044
+May 27 18:51 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 27 18:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 18:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 18:51 : client: [0] opened from [::1]:51062
+May 27 18:51 : client: [1] opened from [::1]:51064
+May 27 18:52 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 27 18:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 18:52 : client: [0] opened from [::1]:51074
+May 27 18:52 : client: [1] opened from [::1]:51076
+May 27 18:52 : client: [1] closed
+May 27 18:52 : client: [0] closed
+May 27 18:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 18:52 : client: [0] opened from [::1]:51092
+May 27 18:53 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 18:53 : client: [0] opened from [::1]:51108
+May 27 18:53 : client: [1] opened from [::1]:51110
+May 27 18:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 18:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 18:55 : client: [0] closed
+May 27 18:55 : client: [2] opened from [::1]:51132
+May 27 18:56 : client: [1] closed
+May 27 18:58 : client: [2] closed
+May 27 18:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 18:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 18:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 18:58 : client: [0] opened from [::1]:51186
+May 27 19:02 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 27 19:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 19:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 19:02 : client: [0] opened from [::1]:51532
+May 27 19:07 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 27 19:09 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 19:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 19:09 : client: [0] opened from [::1]:52228
+May 27 19:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 19:22 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 27 21:48 : player: played "Best Electro House Mix 2019 Remix.mp3"
+May 27 21:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 21:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 21:48 : client: [0] opened from [::1]:32862
+May 27 21:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 21:49 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 27 21:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 21:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 21:57 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 21:57 : client: [0] opened from [::1]:58102
+May 27 21:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 21:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 21:57 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 27 22:01 : client: [1] opened from [::1]:58292
+May 27 22:02 : client: [1] closed
+May 27 22:02 : client: [0] closed
+May 27 22:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 22:08 : client: [0] opened from [::1]:59982
+May 27 22:12 : client: [1] opened from [::1]:60018
+May 27 22:12 : client: [1] closed
+May 27 22:12 : update: added /MEGA HITS 2019 Summer Mix 2019 Best Of Deep House Sessions Music Chill Out Mix By Magic.mp3
+May 27 22:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 22:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 22:13 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 27 22:13 : client: [2] opened from [::1]:60024
+May 27 22:13 : client: [2] closed
+May 27 22:13 : client: [3] opened from [::1]:60026
+May 27 22:13 : client: [3] closed
+May 27 22:14 : client: [4] opened from [::1]:60032
+May 27 22:14 : client: [4] closed
+May 27 22:14 : client: [5] opened from [::1]:60034
+May 27 22:14 : client: [5] closed
+May 27 22:14 : client: [6] opened from [::1]:60036
+May 27 22:14 : client: [6] closed
+May 27 22:14 : client: [7] opened from [::1]:60038
+May 27 22:14 : client: [7] closed
+May 27 22:14 : client: [8] opened from [::1]:60040
+May 27 22:14 : client: [8] closed
+May 27 22:14 : client: [9] opened from [::1]:60042
+May 27 22:14 : client: [9] closed
+May 27 22:14 : client: [10] opened from [::1]:60044
+May 27 22:14 : client: [10] closed
+May 27 22:14 : client: [11] opened from [::1]:60046
+May 27 22:14 : client: [11] closed
+May 27 22:14 : client: [12] opened from [::1]:60048
+May 27 22:14 : client: [12] closed
+May 27 22:14 : client: [13] opened from [::1]:60050
+May 27 22:14 : client: [13] closed
+May 27 22:15 : client: [14] opened from [::1]:60052
+May 27 22:15 : client: [14] closed
+May 27 22:16 : client: [15] opened from [::1]:60068
+May 27 22:16 : client: [15] closed
+May 27 22:17 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 27 22:18 : client: [0] closed
+May 27 22:18 : client: [16] opened from [::1]:60090
+May 27 22:18 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 27 22:19 : client: [17] opened from [::1]:60100
+May 27 22:19 : client: [17] closed
+May 27 22:20 : client: [18] opened from [::1]:60106
+May 27 22:20 : client: [18] closed
+May 27 22:23 : client: [19] opened from [::1]:60128
+May 27 22:23 : update: removing MEGA HITS 2019 Summer Mix 2019 Best Of Deep House Sessions Music Chill Out Mix By Magic.mp3
+May 27 22:23 : client: [19] closed
+May 27 22:23 : update: added /MEGA_HITS_2019_Summer_Mix.mp3
+May 27 22:23 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 27 22:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 22:24 : client: [0] opened from [::1]:60134
+May 27 22:25 : client: [0] closed
+May 27 22:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 22:25 : client: [0] opened from [::1]:54292
+May 27 22:25 : client: [1] opened from [::1]:54294
+May 27 22:26 : client: [1] closed
+May 27 22:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 22:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 22:27 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 27 22:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 22:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 22:36 : exception: Failed to commit /home/krive/.config/mpd/state: File exists
+May 27 22:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 22:36 : client: [0] opened from [::1]:54504
+May 27 22:36 : client: [0] closed
+May 27 22:36 : client: [1] opened from [::1]:54514
+May 27 22:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 22:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 22:37 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 27 22:37 : client: [2] opened from [::1]:54526
+May 27 22:38 : client: [2] closed
+May 27 22:39 : client: [3] opened from [::1]:54538
+May 27 22:43 : client: [3] closed
+May 28 10:45 : client: [4] opened from [::1]:58856
+May 28 10:46 : client: [4] closed
+May 28 12:45 : client: [5] opened from [::1]:33076
+May 28 12:45 : client: [5] closed
+May 28 12:46 : client: [6] opened from [::1]:33090
+May 28 12:47 : client: [6] closed
+May 28 13:06 : client: [1] closed
+May 28 13:06 : client: [7] opened from [::1]:33250
+May 28 13:41 : player: played "MEGA_HITS_2019_Summer_Mix.mp3"
+May 28 13:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 13:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 13:42 : client: [0] opened from [::1]:44076
+May 28 13:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 14:12 : player: played "MEGA_HITS_2019_Summer_Mix.mp3"
+May 28 14:50 : client: [0] closed
+May 28 15:01 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 15:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 15:01 : client: [0] opened from [::1]:45746
+May 28 15:03 : player: played "MEGA_HITS_2019_Summer_Mix.mp3"
+May 28 15:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 15:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 15:04 : client: [0] opened from [::1]:39342
+May 28 15:07 : client: [0] closed
+May 28 15:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 15:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 15:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 15:08 : client: [0] opened from [::1]:39404
+May 28 15:08 : client: [0] closed
+May 28 15:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 15:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 15:08 : client: [0] opened from [::1]:39426
+May 28 15:18 : client: [0] closed
+May 28 15:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 15:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 15:18 : client: [0] opened from [::1]:39752
+May 28 15:20 : client: [0] closed
+May 28 15:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 15:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 15:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 15:20 : client: [0] opened from [::1]:39792
+May 28 15:37 : client: [0] closed
+May 28 15:37 : client: [1] opened from [::1]:40098
+May 28 16:39 : client: [1] closed
+May 28 16:39 : client: [2] opened from [::1]:40542
+May 28 16:40 : player: played "MEGA_HITS_2019_Summer_Mix.mp3"
+May 28 16:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 16:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 16:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 16:41 : client: [0] opened from [::1]:51028
+May 28 16:41 : player: played "MEGA_HITS_2019_Summer_Mix.mp3"
+May 28 16:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 16:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 16:42 : client: [0] opened from [::1]:56104
+May 28 16:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 17:40 : client: [0] closed
+May 28 17:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 17:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 17:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 17:45 : client: [0] opened from [::1]:56946
+May 28 17:45 : client: [0] closed
+May 28 17:45 : client: [1] opened from [::1]:56962
+May 28 17:45 : player: played "MEGA_HITS_2019_Summer_Mix.mp3"
+May 28 17:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 17:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 17:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 17:46 : client: [0] opened from [::1]:51558
+May 28 17:46 : client: [0] closed
+May 28 17:46 : client: [1] opened from [::1]:51576
+May 28 18:52 : client: [1] closed
+May 28 18:52 : client: [2] opened from [::1]:52240
+May 28 18:53 : client: [2] closed
+May 28 18:53 : client: [3] opened from [::1]:52252
+May 28 18:59 : client: [3] closed
+May 28 18:59 : client: [4] opened from [::1]:52290
+May 28 19:06 : player: played "MEGA_HITS_2019_Summer_Mix.mp3"
+May 28 19:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 19:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 19:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 19:06 : client: [0] opened from [::1]:52390
+May 28 19:06 : client: [1] opened from [::1]:52396
+May 28 19:06 : client: [1] closed
+May 28 19:06 : client: [0] closed
+May 28 19:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 19:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 19:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 19:07 : client: [0] opened from [::1]:52422
+May 28 19:15 : client: [0] closed
+May 28 19:16 : client: [1] opened from [::1]:52760
+May 28 19:16 : client: [1] closed
+May 28 19:16 : client: [2] opened from [::1]:52768
+May 28 19:17 : client: [2] closed
+May 28 19:17 : client: [3] opened from [::1]:52778
+May 28 19:18 : client: [3] closed
+May 28 19:18 : client: [4] opened from [::1]:52792
+May 28 19:50 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+May 29 11:36 : client: [4] closed
+May 29 11:36 : client: [5] opened from [::1]:60464
+May 30 10:47 : player: played "MEGA_HITS_2019_Summer_Mix.mp3"
+May 30 10:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 30 10:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 30 10:47 : client: [0] opened from [::1]:41610
+May 30 11:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 30 16:36 : client: [1] opened from [::1]:44256
+May 30 16:36 : client: [1] closed
+May 30 16:36 : client: [2] opened from [::1]:44258
+May 30 16:36 : client: [2] closed
+May 30 16:37 : client: [3] opened from [::1]:44268
+May 30 16:37 : client: [3] closed
+May 30 16:37 : client: [4] opened from [::1]:44270
+May 30 16:37 : client: [4] closed
+May 30 16:37 : client: [5] opened from [::1]:44272
+May 30 16:37 : player: played "MEGA_HITS_2019_Summer_Mix.mp3"
+May 30 16:37 : client: [5] closed
+May 30 16:37 : client: [6] opened from [::1]:44274
+May 30 16:37 : client: [6] closed
+May 30 16:37 : client: [7] opened from [::1]:44276
+May 30 16:37 : client: [7] closed
+May 30 16:37 : client: [8] opened from [::1]:44278
+May 30 16:37 : client: [8] closed
+May 30 16:37 : client: [9] opened from [::1]:44280
+May 30 16:37 : client: [9] closed
+May 30 16:37 : client: [10] opened from [::1]:44282
+May 30 16:37 : client: [10] closed
+May 30 16:37 : client: [11] opened from [::1]:44284
+May 30 16:37 : client: [11] closed
+May 30 16:37 : client: [12] opened from [::1]:44286
+May 30 16:37 : client: [12] closed
+May 30 16:38 : client: [13] opened from [::1]:44292
+May 30 16:38 : client: [13] closed
+May 30 16:38 : client: [14] opened from [::1]:44298
+May 30 16:38 : client: [14] closed
+May 30 16:38 : client: [15] opened from [::1]:44302
+May 30 16:38 : client: [15] closed
+May 30 16:38 : client: [16] opened from [::1]:44304
+May 30 16:38 : client: [16] closed
+May 30 16:39 : client: [17] opened from [::1]:44310
+May 30 16:39 : client: [17] closed
+May 30 20:39 : client: [0] closed
+May 30 20:39 : client: [18] opened from [::1]:46924
+May 30 20:40 : client: [18] closed
+May 30 20:40 : client: [19] opened from [::1]:46934
+May 30 20:43 : client: [19] closed
+May 30 20:43 : client: [20] opened from [::1]:46960
+May 30 20:47 : client: [20] closed
+May 30 20:48 : client: [21] opened from [::1]:46996
+May 30 20:49 : client: [21] closed
+May 30 20:49 : client: [22] opened from [::1]:47012
+May 30 20:51 : client: [22] closed
+May 30 20:51 : client: [23] opened from [::1]:47026
+May 30 20:51 : client: [23] closed
+May 30 20:51 : client: [24] opened from [::1]:47034
+May 30 20:53 : client: [24] closed
+May 30 20:53 : client: [25] opened from [::1]:47052
+May 30 20:54 : client: [25] closed
+May 30 20:54 : client: [26] opened from [::1]:47060
+May 30 20:54 : client: [26] closed
+May 30 20:54 : client: [27] opened from [::1]:47068
+May 30 21:07 : client: [27] closed
+May 30 21:07 : client: [28] opened from [::1]:47216
+May 30 21:11 : client: [28] closed
+May 30 21:11 : client: [29] opened from [::1]:47240
+May 30 21:14 : client: [29] closed
+May 30 21:14 : client: [30] opened from [::1]:47264
+May 30 21:17 : client: [30] closed
+May 30 21:17 : client: [31] opened from [::1]:47282
+May 30 21:19 : client: [31] closed
+May 30 21:19 : client: [32] opened from [::1]:47302
+May 30 21:30 : client: [32] closed
+May 30 21:30 : client: [33] opened from [::1]:47388
+May 30 21:32 : client: [33] closed
+May 30 21:32 : client: [34] opened from [::1]:47406
+May 30 21:38 : client: [34] closed
+May 30 21:38 : client: [35] opened from [::1]:47446
+May 30 21:40 : client: [35] closed
+May 30 21:40 : client: [36] opened from [::1]:47464
+May 30 21:44 : client: [36] closed
+May 30 21:44 : client: [37] opened from [::1]:47496
+May 30 21:45 : client: [37] closed
+May 30 21:45 : client: [38] opened from [::1]:47504
+May 30 21:48 : client: [38] closed
+May 30 21:48 : client: [39] opened from [::1]:47532
+May 30 21:56 : client: [39] closed
+May 30 21:56 : client: [40] opened from [::1]:47576
+May 30 21:57 : client: [40] closed
+May 30 21:57 : client: [41] opened from [::1]:47596
+May 30 22:01 : client: [41] closed
+May 30 22:01 : client: [42] opened from [::1]:47634
+May 30 22:02 : client: [42] closed
+May 30 22:02 : client: [43] opened from [::1]:47642
+May 30 22:02 : client: [43] closed
+May 30 22:02 : client: [44] opened from [::1]:47650
+May 30 22:09 : client: [44] closed
+May 30 22:09 : client: [45] opened from [::1]:47694
+May 30 22:09 : client: [45] closed
+May 30 22:09 : client: [46] opened from [::1]:47704
+May 30 22:11 : client: [46] closed
+May 30 22:11 : client: [47] opened from [::1]:47720
+May 30 22:14 : client: [47] closed
+May 30 22:14 : client: [48] opened from [::1]:47746
+May 30 22:15 : client: [48] closed
+May 30 22:15 : client: [49] opened from [::1]:47754
+May 30 22:15 : client: [49] closed
+May 30 22:15 : client: [50] opened from [::1]:47762
+May 30 22:19 : client: [50] closed
+May 30 22:19 : client: [51] opened from [::1]:47792
+May 30 22:21 : client: [51] closed
+May 30 22:21 : client: [52] opened from [::1]:47808
+May 30 22:33 : client: [52] closed
+May 30 22:33 : client: [53] opened from [::1]:47924
+May 30 22:34 : client: [53] closed
+May 30 22:34 : client: [54] opened from [::1]:47938
+May 30 22:35 : client: [54] closed
+May 30 22:35 : client: [55] opened from [::1]:47946
+May 30 22:37 : client: [55] closed
+May 30 22:37 : client: [56] opened from [::1]:47962
+May 30 22:38 : client: [56] closed
+May 30 22:38 : client: [57] opened from [::1]:47980
+May 30 22:39 : client: [57] closed
+May 30 22:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 30 22:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 30 22:41 : client: [0] opened from [::1]:48014
+May 30 22:51 : client: [0] closed
+May 30 22:51 : client: [1] opened from [::1]:48090
+May 30 22:54 : client: [1] closed
+May 30 22:54 : client: [2] opened from [::1]:48112
+May 30 22:55 : client: [2] closed
+May 30 22:55 : client: [3] opened from [::1]:48120
+May 30 22:57 : client: [3] closed
+May 30 22:57 : client: [4] opened from [::1]:48136
+May 30 22:58 : client: [4] closed
+May 30 22:58 : client: [5] opened from [::1]:48148
+May 30 23:00 : client: [5] closed
+May 30 23:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 30 23:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 30 23:02 : client: [0] opened from [::1]:48178
+May 30 23:04 : client: [0] closed
+May 30 23:04 : client: [1] opened from [::1]:48200
+May 30 23:06 : client: [1] closed
+May 30 23:06 : client: [2] opened from [::1]:48212
+May 30 23:07 : client: [2] closed
+May 30 23:07 : client: [3] opened from [::1]:48224
+May 30 23:08 : client: [3] closed
+May 30 23:08 : client: [4] opened from [::1]:48234
+May 30 23:08 : client: [4] closed
+May 30 23:08 : client: [5] opened from [::1]:48244
+May 30 23:09 : client: [5] closed
+May 30 23:09 : client: [6] opened from [::1]:48252
+May 30 23:10 : client: [6] closed
+May 30 23:10 : client: [7] opened from [::1]:48264
+May 30 23:11 : client: [7] closed
+May 30 23:11 : client: [8] opened from [::1]:48272
+May 30 23:12 : client: [8] closed
+May 30 23:12 : client: [9] opened from [::1]:48280
+May 30 23:14 : client: [9] closed
+May 30 23:14 : client: [10] opened from [::1]:48296
+May 30 23:15 : client: [10] closed
+May 30 23:15 : client: [11] opened from [::1]:48308
+May 30 23:16 : client: [11] closed
+May 30 23:16 : client: [12] opened from [::1]:48320
+May 30 23:17 : client: [12] closed
+May 30 23:17 : client: [13] opened from [::1]:48328
+May 30 23:21 : client: [13] closed
+May 30 23:21 : client: [14] opened from [::1]:48352
+May 31 08:20 : client: [14] closed
+May 31 08:20 : client: [15] opened from [::1]:51414
+May 31 08:22 : client: [15] closed
+May 31 08:22 : client: [16] opened from [::1]:51428
+May 31 08:29 : client: [16] closed
+May 31 08:29 : client: [17] opened from [::1]:51472
+May 31 08:33 : client: [17] closed
+May 31 08:33 : client: [18] opened from [::1]:51504
+May 31 08:37 : client: [18] closed
+May 31 08:37 : client: [19] opened from [::1]:51536
+May 31 08:40 : client: [19] closed
+May 31 08:40 : client: [20] opened from [::1]:51554
+May 31 08:45 : client: [20] closed
+May 31 08:45 : client: [21] opened from [::1]:51584
+May 31 08:46 : client: [21] closed
+May 31 08:46 : client: [22] opened from [::1]:51596
+May 31 08:50 : client: [22] closed
+May 31 08:50 : client: [23] opened from [::1]:51632
+May 31 08:52 : client: [23] closed
+May 31 08:54 : client: [24] opened from [::1]:51650
+May 31 08:55 : client: [24] closed
+May 31 08:55 : client: [25] opened from [::1]:51662
+May 31 08:57 : client: [25] closed
+May 31 08:57 : client: [26] opened from [::1]:51684
+May 31 09:21 : client: [26] closed
+May 31 09:21 : client: [27] opened from [::1]:51856
+May 31 09:22 : client: [27] closed
+May 31 09:22 : client: [28] opened from [::1]:51870
+May 31 09:25 : client: [28] closed
+May 31 09:25 : client: [29] opened from [::1]:51892
+May 31 09:34 : client: [29] closed
+May 31 09:34 : client: [30] opened from [::1]:52036
+May 31 09:37 : client: [30] closed
+May 31 09:37 : client: [31] opened from [::1]:52066
+May 31 09:39 : client: [31] closed
+May 31 09:39 : client: [32] opened from [::1]:52098
+May 31 09:42 : client: [32] closed
+May 31 09:42 : client: [33] opened from [::1]:52128
+May 31 09:44 : client: [33] closed
+May 31 09:44 : client: [34] opened from [::1]:52156
+May 31 09:47 : client: [34] closed
+May 31 09:47 : client: [35] opened from [::1]:52184
+May 31 09:49 : client: [35] closed
+May 31 09:49 : client: [36] opened from [::1]:52226
+May 31 09:52 : client: [36] closed
+May 31 09:52 : client: [37] opened from [::1]:52256
+May 31 09:55 : client: [37] closed
+May 31 09:55 : client: [38] opened from [::1]:52288
+May 31 09:55 : client: [38] closed
+May 31 09:55 : client: [39] opened from [::1]:52300
+May 31 09:57 : client: [39] closed
+May 31 09:58 : client: [40] opened from [::1]:52334
+May 31 09:59 : client: [40] closed
+May 31 09:59 : client: [41] opened from [::1]:52360
+May 31 10:00 : client: [41] closed
+May 31 10:00 : client: [42] opened from [::1]:52376
+May 31 10:01 : client: [42] closed
+May 31 10:01 : client: [43] opened from [::1]:52392
+May 31 10:12 : client: [43] closed
+May 31 10:12 : client: [44] opened from [::1]:52512
+May 31 10:13 : client: [44] closed
+May 31 10:13 : client: [45] opened from [::1]:52526
+May 31 10:14 : client: [45] closed
+May 31 10:14 : client: [46] opened from [::1]:52546
+May 31 10:16 : client: [46] closed
+May 31 10:16 : client: [47] opened from [::1]:52572
+May 31 10:19 : client: [47] closed
+May 31 10:19 : client: [48] opened from [::1]:52608
+May 31 10:23 : client: [48] closed
+May 31 10:23 : client: [49] opened from [::1]:52652
+May 31 10:27 : client: [49] closed
+May 31 10:27 : client: [50] opened from [::1]:52706
+May 31 10:27 : client: [50] closed
+May 31 10:27 : client: [51] opened from [::1]:52718
+May 31 10:33 : client: [51] closed
+May 31 10:33 : client: [52] opened from [::1]:52790
+May 31 10:35 : client: [52] closed
+May 31 10:35 : client: [53] opened from [::1]:52820
+May 31 10:36 : client: [53] closed
+May 31 10:36 : client: [54] opened from [::1]:52830
+May 31 10:39 : client: [54] closed
+May 31 10:39 : client: [55] opened from [::1]:52866
+May 31 10:39 : client: [55] closed
+May 31 10:39 : client: [56] opened from [::1]:52878
+May 31 10:40 : client: [56] closed
+May 31 10:40 : client: [57] opened from [::1]:52888
+May 31 10:40 : client: [57] closed
+May 31 10:40 : client: [58] opened from [::1]:52900
+May 31 10:41 : client: [58] closed
+May 31 10:41 : client: [59] opened from [::1]:52910
+May 31 10:55 : client: [59] closed
+May 31 10:55 : client: [60] opened from [::1]:53060
+May 31 10:57 : client: [60] closed
+May 31 10:57 : client: [61] opened from [::1]:53096
+May 31 10:58 : client: [61] closed
+May 31 10:58 : client: [62] opened from [::1]:53112
+May 31 11:08 : client: [62] closed
+May 31 11:08 : client: [63] opened from [::1]:53226
+May 31 11:12 : client: [63] closed
+May 31 11:12 : client: [64] opened from [::1]:53266
+May 31 11:12 : client: [64] closed
+May 31 11:12 : client: [65] opened from [::1]:53278
+May 31 11:13 : client: [65] closed
+May 31 11:13 : client: [66] opened from [::1]:53300
+May 31 11:15 : client: [66] closed
+May 31 11:15 : client: [67] opened from [::1]:53318
+May 31 11:16 : client: [67] closed
+May 31 11:16 : client: [68] opened from [::1]:53330
+May 31 11:16 : client: [68] closed
+May 31 11:16 : client: [69] opened from [::1]:53340
+May 31 11:17 : client: [69] closed
+May 31 11:17 : client: [70] opened from [::1]:53350
+May 31 11:18 : client: [70] closed
+May 31 11:18 : client: [71] opened from [::1]:53366
+May 31 11:19 : client: [71] closed
+May 31 11:19 : client: [72] opened from [::1]:53388
+May 31 11:21 : client: [72] closed
+May 31 11:21 : client: [73] opened from [::1]:53406
+May 31 11:22 : client: [73] closed
+May 31 11:22 : client: [74] opened from [::1]:53426
+May 31 11:23 : client: [74] closed
+May 31 11:23 : client: [75] opened from [::1]:53452
+May 31 11:25 : client: [75] closed
+May 31 11:25 : client: [76] opened from [::1]:53472
+May 31 11:27 : client: [76] closed
+May 31 11:27 : client: [77] opened from [::1]:53508
+May 31 11:31 : client: [77] closed
+May 31 11:31 : client: [78] opened from [::1]:53550
+May 31 11:33 : client: [78] closed
+May 31 11:33 : client: [79] opened from [::1]:53588
+May 31 11:34 : client: [79] closed
+May 31 11:34 : client: [80] opened from [::1]:53600
+May 31 11:35 : client: [80] closed
+May 31 11:35 : client: [81] opened from [::1]:53620
+May 31 11:43 : client: [81] closed
+May 31 11:43 : client: [82] opened from [::1]:53700
+May 31 11:46 : client: [82] closed
+May 31 11:46 : client: [83] opened from [::1]:53728
+May 31 11:47 : client: [83] closed
+May 31 11:47 : client: [84] opened from [::1]:53758
+May 31 11:49 : client: [84] closed
+May 31 11:49 : client: [85] opened from [::1]:53782
+May 31 11:50 : client: [85] closed
+May 31 11:50 : client: [86] opened from [::1]:53800
+May 31 11:51 : client: [86] closed
+May 31 11:51 : client: [87] opened from [::1]:53818
+May 31 11:52 : client: [87] closed
+May 31 11:52 : client: [88] opened from [::1]:53830
+May 31 12:12 : client: [88] closed
+May 31 12:12 : client: [89] opened from [::1]:54054
+May 31 12:26 : client: [89] closed
+May 31 12:26 : client: [90] opened from [::1]:54206
+May 31 12:31 : player: played "Best Electro House Mix 2019 Remix.mp3"
+May 31 12:31 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 31 12:31 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 31 12:31 : client: [0] opened from [::1]:42268
+May 31 12:36 : client: [0] closed
+May 31 12:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 31 12:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 31 12:45 : client: [0] opened from [::1]:37934
+May 31 12:47 : client: [0] closed
+May 31 12:47 : client: [1] opened from [::1]:37954
+May 31 12:47 : client: [1] closed
+May 31 12:47 : client: [2] opened from [::1]:37962
+May 31 12:48 : client: [2] closed
+May 31 12:48 : client: [3] opened from [::1]:37970
+May 31 12:49 : client: [3] closed
+May 31 12:49 : client: [4] opened from [::1]:37978
+May 31 12:54 : player: played "Best Electro House Mix 2019 Remix.mp3"
+May 31 12:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 31 12:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 31 12:54 : client: [0] opened from [::1]:38028
+May 31 12:54 : client: [1] opened from [::1]:38030
+May 31 12:54 : client: [1] closed
+May 31 12:54 : player: played "Best Electro House Mix 2019 Remix.mp3"
+May 31 12:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 31 12:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 31 12:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 31 12:54 : client: [0] opened from [::1]:38064
+May 31 12:54 : client: [1] opened from [::1]:38066
+May 31 12:54 : client: [1] closed
+May 31 12:56 : player: played "Best Electro House Mix 2019 Remix.mp3"
+May 31 12:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 31 12:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 31 12:56 : client: [0] opened from [::1]:45520
+May 31 13:00 : client: [0] closed
+May 31 13:00 : client: [1] opened from [::1]:45552
+May 31 13:01 : client: [1] closed
+May 31 13:01 : client: [2] opened from [::1]:45568
+May 31 13:02 : client: [2] closed
+May 31 13:02 : client: [3] opened from [::1]:45576
+May 31 13:04 : client: [3] closed
+May 31 13:04 : client: [4] opened from [::1]:45588
+May 31 13:04 : client: [4] closed
+May 31 13:05 : client: [5] opened from [::1]:45596
+May 31 13:05 : client: [5] closed
+May 31 13:05 : client: [6] opened from [::1]:45606
+May 31 13:12 : client: [6] closed
+May 31 13:12 : client: [7] opened from [::1]:45654
+May 31 13:12 : client: [7] closed
+May 31 13:12 : client: [8] opened from [::1]:45662
+May 31 13:13 : client: [8] closed
+May 31 13:13 : client: [9] opened from [::1]:45670
+May 31 13:33 : client: [9] closed
+May 31 13:33 : client: [10] opened from [::1]:45772
+May 31 13:34 : client: [10] closed
+May 31 13:34 : client: [11] opened from [::1]:45780
+May 31 13:38 : client: [11] closed
+May 31 13:38 : client: [12] opened from [::1]:45808
+May 31 13:40 : client: [12] closed
+May 31 13:40 : client: [13] opened from [::1]:45820
+May 31 13:40 : client: [13] closed
+May 31 13:40 : client: [14] opened from [::1]:45830
+May 31 13:41 : client: [14] closed
+May 31 13:41 : client: [15] opened from [::1]:45838
+May 31 13:42 : client: [15] closed
+May 31 13:42 : client: [16] opened from [::1]:45852
+May 31 13:44 : client: [16] closed
+May 31 13:44 : client: [17] opened from [::1]:45864
+May 31 13:46 : client: [17] closed
+May 31 13:46 : client: [18] opened from [::1]:45878
+May 31 13:47 : client: [18] closed
+May 31 13:49 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 31 13:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 31 13:49 : client: [0] opened from [::1]:45910
+May 31 13:56 : client: [0] closed
+May 31 13:56 : client: [1] opened from [::1]:45956
+May 31 13:58 : client: [1] closed
+May 31 13:58 : client: [2] opened from [::1]:45978
+May 31 13:59 : client: [2] closed
+May 31 13:59 : client: [3] opened from [::1]:45990
+May 31 14:01 : client: [3] closed
+May 31 14:01 : client: [4] opened from [::1]:46006
+May 31 14:03 : client: [4] closed
+May 31 14:03 : client: [5] opened from [::1]:46018
+May 31 14:04 : client: [5] closed
+May 31 14:04 : client: [6] opened from [::1]:46026
+May 31 14:04 : client: [6] closed
+May 31 14:04 : client: [7] opened from [::1]:46034
+May 31 14:05 : client: [7] closed
+May 31 14:05 : client: [8] opened from [::1]:46044
+May 31 14:05 : client: [8] closed
+May 31 14:05 : client: [9] opened from [::1]:46052
+May 31 14:08 : client: [9] closed
+May 31 14:08 : client: [10] opened from [::1]:46070
+May 31 14:10 : client: [10] closed
+May 31 14:10 : client: [11] opened from [::1]:46084
+May 31 14:11 : client: [11] closed
+May 31 14:11 : client: [12] opened from [::1]:46092
+May 31 14:12 : client: [12] closed
+May 31 14:12 : client: [13] opened from [::1]:46106
+May 31 14:14 : client: [13] closed
+May 31 14:14 : client: [14] opened from [::1]:46118
+May 31 14:15 : client: [14] closed
+May 31 14:15 : client: [15] opened from [::1]:46128
+May 31 14:15 : client: [15] closed
+May 31 14:15 : client: [16] opened from [::1]:46136
+May 31 14:17 : client: [16] closed
+May 31 14:17 : client: [17] opened from [::1]:46154
+May 31 14:19 : client: [17] closed
+May 31 14:19 : client: [18] opened from [::1]:46162
+May 31 14:20 : client: [18] closed
+May 31 14:20 : client: [19] opened from [::1]:46176
+May 31 14:21 : client: [19] closed
+May 31 14:21 : client: [20] opened from [::1]:46184
+May 31 14:22 : client: [20] closed
+May 31 14:22 : client: [21] opened from [::1]:46196
+May 31 14:22 : client: [21] closed
+May 31 14:22 : client: [22] opened from [::1]:46202
+May 31 14:30 : client: [22] closed
+May 31 14:30 : client: [23] opened from [::1]:46244
+May 31 14:31 : client: [23] closed
+May 31 14:31 : client: [24] opened from [::1]:46252
+May 31 14:32 : client: [24] closed
+May 31 14:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 31 14:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 31 14:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 31 14:34 : client: [0] opened from [::1]:46282
+May 31 14:39 : client: [0] closed
+May 31 14:39 : client: [1] opened from [::1]:46318
+May 31 14:39 : client: [1] closed
+May 31 14:39 : client: [2] opened from [::1]:46326
+May 31 14:40 : client: [2] closed
+May 31 14:40 : client: [3] opened from [::1]:46340
+May 31 14:41 : client: [3] closed
+May 31 14:41 : client: [4] opened from [::1]:46350
+May 31 14:42 : client: [4] closed
+May 31 14:42 : client: [5] opened from [::1]:46358
+May 31 14:43 : client: [5] closed
+May 31 14:43 : client: [6] opened from [::1]:46366
+May 31 14:50 : client: [6] closed
+May 31 14:50 : client: [7] opened from [::1]:46408
+May 31 14:51 : client: [7] closed
+May 31 14:51 : client: [8] opened from [::1]:46416
+May 31 14:51 : client: [8] closed
+May 31 14:51 : client: [9] opened from [::1]:46426
+May 31 14:52 : client: [9] closed
+May 31 14:52 : client: [10] opened from [::1]:46434
+May 31 14:53 : client: [10] closed
+May 31 14:53 : client: [11] opened from [::1]:46446
+May 31 14:54 : client: [11] closed
+May 31 14:54 : client: [12] opened from [::1]:46454
+May 31 14:54 : client: [12] closed
+May 31 14:54 : client: [13] opened from [::1]:46462
+May 31 14:55 : client: [13] closed
+May 31 14:55 : client: [14] opened from [::1]:46472
+May 31 14:56 : client: [14] closed
+May 31 14:56 : client: [15] opened from [::1]:46486
+May 31 14:58 : client: [15] closed
+May 31 14:58 : client: [16] opened from [::1]:46498
+May 31 15:03 : client: [16] closed
+May 31 15:03 : client: [17] opened from [::1]:46526
+May 31 15:03 : client: [17] closed
+May 31 15:03 : client: [18] opened from [::1]:46534
+May 31 15:05 : client: [18] closed
+May 31 15:05 : client: [19] opened from [::1]:46548
+May 31 15:08 : client: [19] closed
+May 31 15:08 : client: [20] opened from [::1]:46570
+May 31 15:10 : client: [20] closed
+May 31 15:10 : client: [21] opened from [::1]:46584
+May 31 15:12 : client: [21] closed
+May 31 15:12 : client: [22] opened from [::1]:46602
+May 31 15:16 : client: [22] closed
+May 31 15:16 : client: [23] opened from [::1]:46624
+May 31 15:17 : client: [23] closed
+May 31 15:17 : client: [24] opened from [::1]:46638
+May 31 15:19 : client: [24] closed
+May 31 15:19 : client: [25] opened from [::1]:46650
+May 31 15:20 : client: [25] closed
+May 31 15:20 : client: [26] opened from [::1]:46664
+May 31 15:21 : client: [26] closed
+May 31 15:21 : client: [27] opened from [::1]:46678
+May 31 15:23 : client: [27] closed
+May 31 15:23 : client: [28] opened from [::1]:46690
+May 31 15:24 : client: [28] closed
+May 31 15:24 : client: [29] opened from [::1]:46702
+May 31 15:25 : client: [29] closed
+May 31 15:25 : client: [30] opened from [::1]:46716
+May 31 15:32 : client: [30] closed
+May 31 15:32 : client: [31] opened from [::1]:46754
+May 31 15:35 : client: [31] closed
+May 31 15:35 : client: [32] opened from [::1]:46770
+May 31 15:36 : client: [32] closed
+May 31 15:36 : client: [33] opened from [::1]:46784
+May 31 15:36 : client: [33] closed
+May 31 15:36 : client: [34] opened from [::1]:46792
+May 31 15:37 : client: [34] closed
+May 31 15:37 : client: [35] opened from [::1]:46806
+May 31 15:39 : client: [35] closed
+May 31 15:39 : client: [36] opened from [::1]:46818
+May 31 15:58 : client: [36] closed
+May 31 15:58 : client: [37] opened from [::1]:47268
+May 31 15:59 : client: [37] closed
+May 31 15:59 : client: [38] opened from [::1]:47278
+May 31 16:00 : client: [38] closed
+May 31 16:00 : client: [39] opened from [::1]:47290
+May 31 16:02 : client: [39] closed
+May 31 16:02 : client: [40] opened from [::1]:47304
+May 31 16:03 : client: [40] closed
+May 31 16:03 : client: [41] opened from [::1]:47312
+May 31 16:22 : client: [41] closed
+May 31 16:22 : client: [42] opened from [::1]:47516
+May 31 16:23 : client: [42] closed
+May 31 16:23 : client: [43] opened from [::1]:47524
+May 31 16:24 : client: [43] closed
+May 31 16:24 : client: [44] opened from [::1]:47532
+May 31 16:24 : client: [44] closed
+May 31 16:24 : client: [45] opened from [::1]:47540
+May 31 16:25 : client: [45] closed
+May 31 16:25 : client: [46] opened from [::1]:47550
+May 31 16:26 : client: [46] closed
+May 31 16:26 : client: [47] opened from [::1]:47560
+May 31 16:26 : client: [47] closed
+May 31 16:26 : client: [48] opened from [::1]:47568
+May 31 16:27 : client: [48] closed
+May 31 16:27 : client: [49] opened from [::1]:47584
+May 31 16:29 : client: [49] closed
+May 31 16:29 : client: [50] opened from [::1]:47596
+May 31 16:29 : client: [50] closed
+May 31 16:29 : client: [51] opened from [::1]:47604
+May 31 16:30 : client: [51] closed
+May 31 16:30 : client: [52] opened from [::1]:47624
+May 31 16:31 : client: [52] closed
+May 31 16:31 : client: [53] opened from [::1]:47632
+May 31 18:32 : client: [53] closed
+May 31 18:32 : client: [54] opened from [::1]:48620
+May 31 18:34 : client: [54] closed
+May 31 18:34 : client: [55] opened from [::1]:48632
+May 31 18:34 : client: [55] closed
+May 31 18:34 : client: [56] opened from [::1]:48640
+May 31 18:36 : client: [56] closed
+May 31 18:36 : client: [57] opened from [::1]:48658
+May 31 18:37 : client: [57] closed
+May 31 18:37 : client: [58] opened from [::1]:48672
+May 31 18:40 : client: [58] closed
+May 31 18:40 : client: [59] opened from [::1]:48692
+May 31 18:43 : client: [59] closed
+May 31 18:43 : client: [60] opened from [::1]:48730
+May 31 18:46 : client: [60] closed
+May 31 18:46 : client: [61] opened from [::1]:48756
+May 31 19:18 : client: [61] closed
+May 31 19:18 : client: [62] opened from [::1]:49032
+May 31 19:20 : client: [62] closed
+May 31 19:20 : client: [63] opened from [::1]:49044
+May 31 19:21 : client: [63] closed
+May 31 19:21 : client: [64] opened from [::1]:49058
+May 31 19:22 : client: [64] closed
+May 31 19:22 : client: [65] opened from [::1]:49068
+May 31 19:23 : client: [65] closed
+May 31 19:23 : client: [66] opened from [::1]:49076
+May 31 19:24 : client: [66] closed
+May 31 19:24 : client: [67] opened from [::1]:49088
+May 31 19:27 : client: [67] closed
+May 31 19:27 : client: [68] opened from [::1]:49120
+May 31 19:29 : client: [68] closed
+May 31 19:29 : client: [69] opened from [::1]:49132
+May 31 19:30 : client: [69] closed
+May 31 19:30 : client: [70] opened from [::1]:49142
+May 31 19:30 : client: [70] closed
+May 31 19:30 : client: [71] opened from [::1]:49154
+May 31 19:31 : client: [71] closed
+May 31 19:31 : client: [72] opened from [::1]:49162
+May 31 19:31 : client: [72] closed
+May 31 19:31 : client: [73] opened from [::1]:49172
+May 31 19:32 : client: [73] closed
+May 31 19:32 : client: [74] opened from [::1]:49180
+May 31 19:32 : client: [74] closed
+May 31 19:32 : client: [75] opened from [::1]:49188
+May 31 19:33 : client: [75] closed
+May 31 19:33 : client: [76] opened from [::1]:49196
+May 31 19:40 : client: [76] closed
+May 31 19:40 : client: [77] opened from [::1]:49242
+May 31 19:42 : client: [77] closed
+May 31 19:42 : client: [78] opened from [::1]:49282
+May 31 19:42 : client: [78] closed
+May 31 19:42 : client: [79] opened from [::1]:49290
+May 31 19:45 : client: [79] closed
+May 31 19:45 : client: [80] opened from [::1]:49310
+May 31 19:54 : client: [80] closed
+May 31 19:54 : client: [81] opened from [::1]:49460
+May 31 19:56 : client: [81] closed
+May 31 19:56 : client: [82] opened from [::1]:49478
+May 31 19:59 : client: [82] closed
+May 31 19:59 : client: [83] opened from [::1]:49496
+May 31 19:59 : client: [83] closed
+May 31 19:59 : client: [84] opened from [::1]:49504
+May 31 20:00 : client: [84] closed
+May 31 20:00 : client: [85] opened from [::1]:49516
+May 31 20:01 : client: [85] closed
+May 31 20:01 : client: [86] opened from [::1]:49532
+May 31 20:02 : client: [86] closed
+May 31 20:02 : client: [87] opened from [::1]:49540
+May 31 20:03 : client: [87] closed
+May 31 20:03 : client: [88] opened from [::1]:49548
+May 31 20:04 : client: [88] closed
+May 31 20:04 : client: [89] opened from [::1]:49558
+May 31 20:05 : client: [89] closed
+May 31 20:05 : client: [90] opened from [::1]:49576
+May 31 20:07 : client: [90] closed
+May 31 20:07 : client: [91] opened from [::1]:49592
+May 31 20:17 : client: [91] closed
+May 31 20:17 : client: [92] opened from [::1]:49660
+May 31 20:17 : client: [92] closed
+May 31 20:17 : client: [93] opened from [::1]:49678
+May 31 20:19 : client: [93] closed
+May 31 20:19 : client: [94] opened from [::1]:49690
+May 31 20:20 : client: [94] closed
+May 31 20:20 : client: [95] opened from [::1]:49700
+May 31 20:21 : client: [95] closed
+May 31 20:21 : client: [96] opened from [::1]:49714
+May 31 20:23 : client: [96] closed
+May 31 20:23 : client: [97] opened from [::1]:49730
+May 31 20:32 : client: [97] closed
+May 31 20:32 : client: [98] opened from [::1]:49798
+May 31 21:22 : client: [98] closed
+May 31 21:22 : client: [99] opened from [::1]:50128
+May 31 21:24 : client: [99] closed
+May 31 21:27 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 31 21:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 31 21:27 : client: [0] opened from [::1]:50170
+May 31 21:28 : client: [0] closed
+May 31 21:28 : client: [1] opened from [::1]:50186
+May 31 21:30 : client: [1] closed
+May 31 21:30 : client: [2] opened from [::1]:50204
+May 31 21:33 : client: [2] closed
+May 31 21:33 : client: [3] opened from [::1]:50222
+May 31 23:30 : client: [3] closed
+May 31 23:30 : client: [4] opened from [::1]:51300
+May 31 23:31 : client: [4] closed
+May 31 23:31 : client: [5] opened from [::1]:51314
+May 31 23:34 : client: [5] closed
+May 31 23:34 : client: [6] opened from [::1]:51334
+May 31 23:36 : client: [6] closed
+May 31 23:36 : client: [7] opened from [::1]:51354
+May 31 23:38 : client: [7] closed
+May 31 23:38 : client: [8] opened from [::1]:51366
+May 31 23:41 : client: [8] closed
+May 31 23:41 : client: [9] opened from [::1]:51392
+May 31 23:42 : client: [9] closed
+May 31 23:42 : client: [10] opened from [::1]:51406
+May 31 23:43 : client: [10] closed
+May 31 23:43 : client: [11] opened from [::1]:51414
+May 31 23:57 : client: [11] closed
+May 31 23:57 : client: [12] opened from [::1]:51610
+Jun 01 00:01 : client: [12] closed
+Jun 01 00:01 : client: [13] opened from [::1]:51634
+Jun 01 00:04 : client: [13] closed
+Jun 01 00:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 01 00:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 01 00:07 : client: [0] opened from [::1]:51682
+Jun 01 10:03 : client: [0] closed
+Jun 01 10:03 : client: [1] opened from [::1]:54676
+Jun 01 10:04 : client: [1] closed
+Jun 01 10:04 : client: [2] opened from [::1]:54688
+Jun 01 10:33 : client: [2] closed
+Jun 01 10:33 : client: [3] opened from [::1]:54992
+Jun 01 10:35 : client: [3] closed
+Jun 01 10:35 : client: [4] opened from [::1]:55006
+Jun 01 10:37 : client: [4] closed
+Jun 01 10:37 : client: [5] opened from [::1]:55028
+Jun 01 10:39 : client: [5] closed
+Jun 01 10:39 : client: [6] opened from [::1]:55042
+Jun 01 10:40 : client: [6] closed
+Jun 01 10:40 : client: [7] opened from [::1]:55054
+Jun 01 10:41 : client: [7] closed
+Jun 01 10:41 : client: [8] opened from [::1]:55064
+Jun 01 10:43 : client: [8] closed
+Jun 01 10:43 : client: [9] opened from [::1]:55082
+Jun 01 10:54 : client: [9] closed
+Jun 01 10:54 : client: [10] opened from [::1]:55220
+Jun 01 11:04 : client: [10] closed
+Jun 01 11:04 : client: [11] opened from [::1]:55280
+Jun 01 11:09 : player: played "Best Electro House Mix 2019 Remix.mp3"
+Jun 01 11:09 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 01 11:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 01 11:09 : client: [0] opened from [::1]:41448
+Jun 01 11:11 : client: [0] closed
+Jun 01 11:11 : client: [1] opened from [::1]:41608
+Jun 01 11:12 : client: [1] closed
+Jun 01 11:12 : client: [2] opened from [::1]:41616
+Jun 01 11:12 : client: [2] closed
+Jun 01 11:12 : client: [3] opened from [::1]:41624
+Jun 01 11:13 : client: [3] closed
+Jun 01 11:13 : client: [4] opened from [::1]:41632
+Jun 01 11:30 : client: [4] closed
+Jun 01 11:30 : client: [5] opened from [::1]:41750
+Jun 01 11:36 : client: [5] closed
+Jun 01 11:36 : client: [6] opened from [::1]:41820
+Jun 01 11:37 : client: [6] closed
+Jun 01 11:37 : client: [7] opened from [::1]:41828
+Jun 01 11:43 : client: [7] closed
+Jun 01 11:43 : client: [8] opened from [::1]:41874
+Jun 01 11:47 : client: [8] closed
+Jun 01 11:47 : client: [9] opened from [::1]:41898
+Jun 01 11:52 : client: [9] closed
+Jun 01 11:52 : client: [10] opened from [::1]:41930
+Jun 01 11:56 : client: [10] closed
+Jun 01 11:56 : client: [11] opened from [::1]:41958
+Jun 01 12:31 : client: [11] closed
+Jun 01 12:31 : client: [12] opened from [::1]:42296
+Jun 01 12:38 : client: [12] closed
+Jun 01 12:38 : client: [13] opened from [::1]:42338
+Jun 01 12:42 : client: [13] closed
+Jun 01 12:42 : client: [14] opened from [::1]:42368
+Jun 01 13:02 : client: [14] closed
+Jun 01 13:02 : client: [15] opened from [::1]:42486
+Jun 01 13:04 : client: [15] closed
+Jun 01 13:04 : client: [16] opened from [::1]:42500
+Jun 01 13:04 : client: [16] closed
+Jun 01 13:04 : client: [17] opened from [::1]:42508
+Jun 01 13:10 : client: [17] closed
+Jun 01 13:10 : client: [18] opened from [::1]:42542
+Jun 01 13:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 01 13:33 : client: [18] closed
+Jun 01 13:33 : client: [19] opened from [::1]:42718
+Jun 01 14:03 : client: [19] closed
+Jun 01 14:03 : client: [20] opened from [::1]:43054
+Jun 01 14:06 : client: [20] closed
+Jun 01 14:06 : client: [21] opened from [::1]:43082
+Jun 01 14:08 : client: [21] closed
+Jun 01 14:08 : client: [22] opened from [::1]:43094
+Jun 01 14:16 : player: played "Best Electro House Mix 2019 Remix.mp3"
+Jun 01 14:24 : client: [22] closed
+Jun 01 14:24 : client: [23] opened from [::1]:43244
+Jun 01 14:26 : client: [23] closed
+Jun 01 14:26 : client: [24] opened from [::1]:43264
+Jun 01 14:29 : client: [24] closed
+Jun 01 14:29 : client: [25] opened from [::1]:43280
+Jun 01 14:37 : client: [25] closed
+Jun 01 14:37 : client: [26] opened from [::1]:43334
+Jun 01 14:44 : client: [26] closed
+Jun 01 14:44 : client: [27] opened from [::1]:43388
+Jun 01 15:05 : client: [27] closed
+Jun 01 15:05 : client: [28] opened from [::1]:43536
+Jun 01 19:43 : player: played "MEGA_HITS_2019_Summer_Mix.mp3"
+Jun 01 20:45 : player: played "Best Electro House Mix 2019 Remix.mp3"
+Jun 01 20:50 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+Jun 02 09:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 02 09:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 02 09:39 : client: [0] opened from [::1]:47070
+Jun 02 10:04 : client: [0] closed
+Jun 02 10:04 : client: [1] opened from [::1]:47320
+Jun 02 10:08 : client: [1] closed
+Jun 02 10:08 : client: [2] opened from [::1]:47350
+Jun 02 10:11 : client: [2] closed
+Jun 02 10:11 : client: [3] opened from [::1]:47372
+Jun 02 10:13 : client: [3] closed
+Jun 02 10:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 02 10:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 02 10:15 : client: [0] opened from [::1]:47406
+Jun 02 10:24 : client: [0] closed
+Jun 02 10:24 : client: [1] opened from [::1]:47456
+Jun 02 10:29 : client: [1] closed
+Jun 02 10:29 : client: [2] opened from [::1]:47484
+Jun 02 10:31 : client: [2] closed
+Jun 02 10:31 : client: [3] opened from [::1]:47502
+Jun 02 10:33 : client: [3] closed
+Jun 02 10:33 : client: [4] opened from [::1]:47516
+Jun 02 10:35 : client: [4] closed
+Jun 02 10:35 : client: [5] opened from [::1]:47528
+Jun 02 10:37 : client: [5] closed
+Jun 02 10:37 : client: [6] opened from [::1]:47548
+Jun 02 10:41 : client: [6] closed
+Jun 02 10:41 : client: [7] opened from [::1]:47568
+Jun 02 10:48 : client: [7] closed
+Jun 02 10:48 : client: [8] opened from [::1]:47612
+Jun 02 10:49 : client: [8] closed
+Jun 02 10:49 : client: [9] opened from [::1]:47624
+Jun 02 10:54 : client: [9] closed
+Jun 02 10:54 : client: [10] opened from [::1]:47736
+Jun 02 10:57 : client: [10] closed
+Jun 02 10:57 : client: [11] opened from [::1]:47766
+Jun 02 10:59 : client: [11] closed
+Jun 02 10:59 : client: [12] opened from [::1]:47778
+Jun 02 11:06 : client: [12] closed
+Jun 02 11:06 : client: [13] opened from [::1]:47912
+Jun 02 11:42 : client: [13] closed
+Jun 02 11:42 : client: [14] opened from [::1]:48188
+Jun 02 11:55 : client: [14] closed
+Jun 02 11:55 : client: [15] opened from [::1]:48286
+Jun 02 11:57 : client: [15] closed
+Jun 02 11:57 : client: [16] opened from [::1]:48302
+Jun 02 12:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 02 13:51 : client: [16] closed
+Jun 02 13:51 : client: [17] opened from [::1]:48988
+Jun 02 13:53 : client: [17] closed
+Jun 02 13:53 : client: [18] opened from [::1]:49004
+Jun 02 13:54 : client: [18] closed
+Jun 02 13:54 : client: [19] opened from [::1]:49016
+Jun 02 14:12 : client: [19] closed
+Jun 02 14:12 : client: [20] opened from [::1]:49156
+Jun 02 14:13 : client: [20] closed
+Jun 02 14:13 : client: [21] opened from [::1]:49166
+Jun 02 14:16 : client: [21] closed
+Jun 02 14:17 : client: [22] opened from [::1]:49192
+Jun 02 14:21 : client: [22] closed
+Jun 02 14:21 : client: [23] opened from [::1]:49212
+Jun 02 14:26 : client: [23] closed
+Jun 02 14:27 : client: [24] opened from [::1]:49252
+Jun 02 14:28 : client: [24] closed
+Jun 02 14:28 : client: [25] opened from [::1]:49264
+Jun 02 14:29 : client: [25] closed
+Jun 02 14:29 : client: [26] opened from [::1]:49274
+Jun 02 14:30 : client: [26] closed
+Jun 02 14:30 : client: [27] opened from [::1]:49286
+Jun 02 14:32 : client: [27] closed
+Jun 02 14:32 : client: [28] opened from [::1]:49306
+Jun 02 14:33 : client: [28] closed
+Jun 02 14:33 : client: [29] opened from [::1]:49318
+Jun 02 14:36 : client: [29] closed
+Jun 02 14:36 : client: [30] opened from [::1]:49336
+Jun 02 14:37 : client: [30] closed
+Jun 02 14:37 : client: [31] opened from [::1]:49350
+Jun 02 14:38 : client: [31] closed
+Jun 02 14:39 : client: [32] opened from [::1]:49362
+Jun 02 14:39 : client: [32] closed
+Jun 02 14:39 : client: [33] opened from [::1]:49370
+Jun 02 14:40 : client: [33] closed
+Jun 02 14:40 : client: [34] opened from [::1]:49378
+Jun 02 14:41 : client: [34] closed
+Jun 02 14:41 : client: [35] opened from [::1]:49392
+Jun 02 14:43 : client: [35] closed
+Jun 02 14:43 : client: [36] opened from [::1]:49406
+Jun 02 14:44 : client: [36] closed
+Jun 02 14:44 : client: [37] opened from [::1]:49418
+Jun 02 14:53 : client: [37] closed
+Jun 02 14:53 : client: [38] opened from [::1]:49484
+Jun 02 14:53 : client: [38] closed
+Jun 02 14:53 : client: [39] opened from [::1]:49492
+Jun 02 14:56 : client: [39] closed
+Jun 02 14:56 : client: [40] opened from [::1]:49514
+Jun 02 14:57 : client: [40] closed
+Jun 02 14:57 : client: [41] opened from [::1]:49526
+Jun 02 15:06 : client: [41] closed
+Jun 02 15:06 : client: [42] opened from [::1]:49614
+Jun 02 15:17 : client: [42] closed
+Jun 02 15:17 : client: [43] opened from [::1]:49684
+Jun 02 15:20 : client: [43] closed
+Jun 02 15:20 : client: [44] opened from [::1]:49700
+Jun 02 15:20 : client: [44] closed
+Jun 02 15:20 : client: [45] opened from [::1]:49708
+Jun 02 15:22 : client: [45] closed
+Jun 02 15:22 : client: [46] opened from [::1]:49724
+Jun 02 15:22 : client: [46] closed
+Jun 02 15:22 : client: [47] opened from [::1]:49732
+Jun 02 15:23 : client: [47] closed
+Jun 02 15:23 : client: [48] opened from [::1]:49740
+Jun 02 15:25 : client: [48] closed
+Jun 02 15:25 : client: [49] opened from [::1]:49752
+Jun 02 15:26 : client: [49] closed
+Jun 02 15:26 : client: [50] opened from [::1]:49772
+Jun 02 15:53 : client: [50] closed
+Jun 02 15:53 : client: [51] opened from [::1]:49942
+Jun 02 15:54 : client: [51] closed
+Jun 02 15:54 : client: [52] opened from [::1]:49950
+Jun 02 15:55 : client: [52] closed
+Jun 02 15:55 : client: [53] opened from [::1]:49958
+Jun 02 16:04 : client: [53] closed
+Jun 02 16:04 : client: [54] opened from [::1]:50064
+Jun 02 16:05 : client: [54] closed
+Jun 02 16:05 : client: [55] opened from [::1]:50072
+Jun 02 16:07 : client: [55] closed
+Jun 02 16:07 : client: [56] opened from [::1]:50092
+Jun 02 16:10 : client: [56] closed
+Jun 02 16:11 : client: [57] opened from [::1]:50118
+Jun 02 16:11 : client: [57] closed
+Jun 02 16:11 : client: [58] opened from [::1]:50128
+Jun 02 16:12 : client: [58] closed
+Jun 02 16:12 : client: [59] opened from [::1]:50138
+Jun 02 16:13 : client: [59] closed
+Jun 02 16:13 : client: [60] opened from [::1]:50150
+Jun 02 16:14 : client: [60] closed
+Jun 02 16:14 : client: [61] opened from [::1]:50162
+Jun 02 16:15 : client: [61] closed
+Jun 02 16:15 : client: [62] opened from [::1]:50174
+Jun 02 16:17 : client: [62] closed
+Jun 02 16:17 : client: [63] opened from [::1]:50190
+Jun 02 16:18 : client: [63] closed
+Jun 02 16:18 : client: [64] opened from [::1]:50202
+Jun 02 16:20 : client: [64] closed
+Jun 02 16:20 : client: [65] opened from [::1]:50214
+Jun 02 16:21 : client: [65] closed
+Jun 02 16:21 : client: [66] opened from [::1]:50222
+Jun 02 16:21 : client: [66] closed
+Jun 02 16:21 : client: [67] opened from [::1]:50232
+Jun 02 16:39 : client: [67] closed
+Jun 02 16:39 : client: [68] opened from [::1]:50372
+Jun 02 17:02 : client: [68] closed
+Jun 02 17:02 : client: [69] opened from [::1]:50514
+Jun 02 17:03 : client: [69] closed
+Jun 02 17:03 : client: [70] opened from [::1]:50522
+Jun 02 17:04 : client: [70] closed
+Jun 02 17:04 : client: [71] opened from [::1]:50534
+Jun 02 17:06 : client: [71] closed
+Jun 02 17:06 : client: [72] opened from [::1]:50546
+Jun 02 17:06 : client: [72] closed
+Jun 02 17:06 : client: [73] opened from [::1]:50556
+Jun 02 17:07 : client: [73] closed
+Jun 02 17:07 : client: [74] opened from [::1]:50566
+Jun 02 17:30 : client: [74] closed
+Jun 02 17:30 : client: [75] opened from [::1]:50714
+Jun 02 17:31 : client: [75] closed
+Jun 02 17:31 : client: [76] opened from [::1]:50728
+Jun 02 17:34 : client: [76] closed
+Jun 02 17:34 : client: [77] opened from [::1]:50746
+Jun 02 17:35 : client: [77] closed
+Jun 02 17:35 : client: [78] opened from [::1]:50758
+Jun 02 17:37 : client: [78] closed
+Jun 02 17:37 : client: [79] opened from [::1]:50774
+Jun 02 17:39 : client: [79] closed
+Jun 02 17:39 : client: [80] opened from [::1]:50790
+Jun 02 17:40 : client: [80] closed
+Jun 02 17:40 : client: [81] opened from [::1]:50802
+Jun 02 17:54 : client: [81] closed
+Jun 02 17:54 : client: [82] opened from [::1]:50888
+Jun 02 17:54 : client: [82] closed
+Jun 02 17:54 : client: [83] opened from [::1]:50896
+Jun 02 17:55 : client: [83] closed
+Jun 02 17:55 : client: [84] opened from [::1]:50904
+Jun 02 18:10 : client: [84] closed
+Jun 02 18:10 : client: [85] opened from [::1]:50988
+Jun 02 18:16 : client: [85] closed
+Jun 02 18:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 02 18:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 02 18:17 : client: [0] opened from [::1]:51052
+Jun 02 18:18 : client: [0] closed
+Jun 02 18:18 : client: [1] opened from [::1]:51068
+Jun 02 18:24 : client: [1] closed
+Jun 02 18:24 : client: [2] opened from [::1]:51100
+Jun 02 18:25 : client: [2] closed
+Jun 02 18:25 : client: [3] opened from [::1]:51108
+Jun 02 18:26 : client: [3] closed
+Jun 02 18:26 : client: [4] opened from [::1]:51116
+Jun 02 18:26 : client: [4] closed
+Jun 02 18:26 : client: [5] opened from [::1]:51126
+Jun 02 18:27 : client: [5] closed
+Jun 02 18:27 : client: [6] opened from [::1]:51136
+Jun 02 18:35 : client: [6] closed
+Jun 02 18:35 : client: [7] opened from [::1]:51180
+Jun 02 18:35 : client: [7] closed
+Jun 02 18:35 : client: [8] opened from [::1]:51188
+Jun 02 18:37 : client: [8] closed
+Jun 02 18:37 : client: [9] opened from [::1]:51204
+Jun 02 18:38 : client: [9] closed
+Jun 02 18:38 : client: [10] opened from [::1]:51216
+Jun 02 18:39 : client: [10] closed
+Jun 02 18:39 : client: [11] opened from [::1]:51228
+Jun 02 18:41 : client: [11] closed
+Jun 02 18:41 : client: [12] opened from [::1]:51240
+Jun 02 18:42 : client: [12] closed
+Jun 02 18:42 : client: [13] opened from [::1]:51256
+Jun 02 18:44 : client: [13] closed
+Jun 02 18:44 : client: [14] opened from [::1]:51268
+Jun 02 18:44 : client: [14] closed
+Jun 02 18:44 : client: [15] opened from [::1]:51276
+Jun 02 18:55 : client: [15] closed
+Jun 02 18:55 : client: [16] opened from [::1]:51434
+Jun 02 18:56 : client: [16] closed
+Jun 02 18:56 : client: [17] opened from [::1]:51444
+Jun 02 18:57 : client: [17] closed
+Jun 02 18:57 : client: [18] opened from [::1]:51458
+Jun 02 18:58 : client: [18] closed
+Jun 02 18:58 : client: [19] opened from [::1]:51466
+Jun 02 18:59 : client: [19] closed
+Jun 02 18:59 : client: [20] opened from [::1]:51476
+Jun 02 19:01 : client: [20] closed
+Jun 02 19:01 : client: [21] opened from [::1]:51496
+Jun 02 19:03 : client: [21] closed
+Jun 02 19:03 : client: [22] opened from [::1]:51510
+Jun 02 19:03 : client: [22] closed
+Jun 02 19:04 : client: [23] opened from [::1]:51518
+Jun 02 19:17 : client: [23] closed
+Jun 02 19:17 : client: [24] opened from [::1]:51606
+Jun 02 19:18 : client: [24] closed
+Jun 02 19:18 : client: [25] opened from [::1]:51622
+Jun 02 20:05 : client: [25] closed
+Jun 02 20:05 : client: [26] opened from [::1]:51970
+Jun 02 20:06 : client: [26] closed
+Jun 02 20:06 : client: [27] opened from [::1]:51984
+Jun 02 20:08 : client: [27] closed
+Jun 02 20:08 : client: [28] opened from [::1]:52000
+Jun 02 20:10 : client: [28] closed
+Jun 02 20:10 : client: [29] opened from [::1]:52012
+Jun 02 20:12 : client: [29] closed
+Jun 02 20:12 : client: [30] opened from [::1]:52032
+Jun 02 20:21 : client: [30] closed
+Jun 02 20:21 : client: [31] opened from [::1]:52082
+Jun 02 20:22 : client: [31] closed
+Jun 02 20:22 : client: [32] opened from [::1]:52098
+Jun 02 20:24 : client: [32] closed
+Jun 02 20:24 : client: [33] opened from [::1]:52110
+Jun 02 20:26 : client: [33] closed
+Jun 02 20:26 : client: [34] opened from [::1]:52126
+Jun 02 20:28 : client: [34] closed
+Jun 02 20:28 : client: [35] opened from [::1]:52144
+Jun 02 20:29 : client: [35] closed
+Jun 02 20:29 : client: [36] opened from [::1]:52156
+Jun 02 20:31 : client: [36] closed
+Jun 02 20:31 : client: [37] opened from [::1]:52174
+Jun 02 20:33 : client: [37] closed
+Jun 02 20:33 : client: [38] opened from [::1]:52188
+Jun 02 20:34 : client: [38] closed
+Jun 02 20:34 : client: [39] opened from [::1]:52196
+Jun 02 20:36 : client: [39] closed
+Jun 02 20:36 : client: [40] opened from [::1]:52212
+Jun 02 20:37 : client: [40] closed
+Jun 02 20:37 : client: [41] opened from [::1]:52228
+Jun 02 20:38 : client: [41] closed
+Jun 02 20:38 : client: [42] opened from [::1]:52236
+Jun 02 20:40 : client: [42] closed
+Jun 02 20:40 : client: [43] opened from [::1]:52248
+Jun 02 20:41 : client: [43] closed
+Jun 02 20:41 : client: [44] opened from [::1]:52262
+Jun 02 20:42 : client: [44] closed
+Jun 02 20:42 : client: [45] opened from [::1]:52276
+Jun 02 20:54 : client: [45] closed
+Jun 02 20:54 : client: [46] opened from [::1]:52368
+Jun 02 20:55 : client: [46] closed
+Jun 02 20:55 : client: [47] opened from [::1]:52380
+Jun 02 20:57 : client: [47] closed
+Jun 02 20:57 : client: [48] opened from [::1]:52396
+Jun 02 20:58 : client: [48] closed
+Jun 02 20:58 : client: [49] opened from [::1]:52408
+Jun 02 21:01 : client: [49] closed
+Jun 02 21:01 : client: [50] opened from [::1]:52426
+Jun 02 21:06 : client: [50] closed
+Jun 02 21:06 : client: [51] opened from [::1]:52454
+Jun 02 21:08 : client: [51] closed
+Jun 02 21:08 : client: [52] opened from [::1]:52468
+Jun 02 21:09 : client: [52] closed
+Jun 02 21:09 : client: [53] opened from [::1]:52480
+Jun 02 21:11 : client: [53] closed
+Jun 02 21:11 : client: [54] opened from [::1]:52494
+Jun 02 21:26 : client: [54] closed
+Jun 02 21:26 : client: [55] opened from [::1]:52582
+Jun 02 21:31 : client: [55] closed
+Jun 02 21:31 : client: [56] opened from [::1]:52610
+Jun 02 21:37 : client: [56] closed
+Jun 02 21:37 : client: [57] opened from [::1]:52650
+Jun 02 21:42 : client: [57] closed
+Jun 02 21:42 : client: [58] opened from [::1]:52684
+Jun 02 21:58 : client: [58] closed
+Jun 02 21:58 : client: [59] opened from [::1]:52772
+Jun 02 22:01 : client: [59] closed
+Jun 02 22:01 : client: [60] opened from [::1]:52824
+Jun 02 22:02 : client: [60] closed
+Jun 02 22:02 : client: [61] opened from [::1]:52838
+Jun 02 22:04 : client: [61] closed
+Jun 02 22:04 : client: [62] opened from [::1]:52850
+Jun 02 22:05 : client: [62] closed
+Jun 02 22:05 : client: [63] opened from [::1]:52858
+Jun 02 22:07 : client: [63] closed
+Jun 02 22:07 : client: [64] opened from [::1]:52878
+Jun 02 22:09 : client: [64] closed
+Jun 02 22:09 : client: [65] opened from [::1]:52916
+Jun 02 22:11 : client: [65] closed
+Jun 02 22:11 : client: [66] opened from [::1]:52928
+Jun 02 22:15 : client: [66] closed
+Jun 02 22:15 : client: [67] opened from [::1]:52956
+Jun 02 22:18 : client: [67] closed
+Jun 02 22:18 : client: [68] opened from [::1]:52978
+Jun 02 22:22 : client: [68] closed
+Jun 02 22:22 : client: [69] opened from [::1]:53126
+Jun 02 22:28 : client: [69] closed
+Jun 02 22:28 : client: [70] opened from [::1]:53164
+Jun 02 22:31 : client: [70] closed
+Jun 02 22:31 : client: [71] opened from [::1]:53184
+Jun 02 22:33 : client: [71] closed
+Jun 02 22:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 02 22:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 02 22:40 : client: [0] opened from [::1]:53322
+Jun 02 22:41 : client: [0] closed
+Jun 02 22:41 : client: [1] opened from [::1]:53340
+Jun 02 22:44 : client: [1] closed
+Jun 02 22:44 : client: [2] opened from [::1]:53448
+Jun 02 22:44 : client: [2] closed
+Jun 02 22:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 02 22:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 02 22:46 : client: [0] opened from [::1]:53474
+Jun 02 22:46 : client: [0] closed
+Jun 02 22:46 : client: [1] opened from [::1]:53486
+Jun 02 22:48 : client: [1] closed
+Jun 02 22:48 : client: [2] opened from [::1]:53500
+Jun 02 22:50 : client: [2] closed
+Jun 02 22:50 : client: [3] opened from [::1]:53512
+Jun 02 22:52 : client: [3] closed
+Jun 02 22:52 : client: [4] opened from [::1]:53532
+Jun 02 22:53 : client: [4] closed
+Jun 02 22:53 : client: [5] opened from [::1]:53540
+Jun 02 22:55 : client: [5] closed
+Jun 02 22:55 : client: [6] opened from [::1]:53556
+Jun 02 22:56 : client: [6] closed
+Jun 02 22:56 : client: [7] opened from [::1]:53570
+Jun 02 22:58 : client: [7] closed
+Jun 02 22:58 : client: [8] opened from [::1]:53588
+Jun 02 23:02 : client: [8] closed
+Jun 02 23:02 : client: [9] opened from [::1]:53710
+Jun 03 07:16 : client: [9] closed
+Jun 03 07:16 : client: [10] opened from [::1]:56358
+Jun 03 07:18 : client: [10] closed
+Jun 03 07:18 : client: [11] opened from [::1]:56378
+Jun 03 08:02 : client: [11] closed
+Jun 03 08:02 : client: [12] opened from [::1]:56638
+Jun 03 08:03 : client: [12] closed
+Jun 03 08:03 : client: [13] opened from [::1]:56650
+Jun 03 08:11 : client: [13] closed
+Jun 03 08:11 : client: [14] opened from [::1]:56690
+Jun 03 08:12 : client: [14] closed
+Jun 03 08:12 : client: [15] opened from [::1]:56702
+Jun 03 08:12 : client: [15] closed
+Jun 03 08:12 : client: [16] opened from [::1]:56710
+Jun 03 08:13 : client: [16] closed
+Jun 03 08:13 : client: [17] opened from [::1]:56718
+Jun 03 08:15 : client: [17] closed
+Jun 03 08:15 : client: [18] opened from [::1]:56730
+Jun 03 08:18 : client: [18] closed
+Jun 03 08:18 : client: [19] opened from [::1]:56754
+Jun 03 10:52 : client: [19] closed
+Jun 03 10:52 : client: [20] opened from [::1]:57678
+Jun 03 10:54 : client: [20] closed
+Jun 03 10:54 : client: [21] opened from [::1]:57698
+Jun 03 10:57 : client: [21] closed
+Jun 03 10:57 : client: [22] opened from [::1]:57722
+Jun 03 10:58 : client: [22] closed
+Jun 03 10:58 : client: [23] opened from [::1]:57732
+Jun 03 11:00 : client: [23] closed
+Jun 03 11:00 : client: [24] opened from [::1]:57758
+Jun 03 11:17 : client: [24] closed
+Jun 03 11:17 : client: [25] opened from [::1]:57870
+Jun 03 11:18 : client: [25] closed
+Jun 03 11:18 : client: [26] opened from [::1]:57882
+Jun 03 11:19 : client: [26] closed
+Jun 03 11:19 : client: [27] opened from [::1]:57894
+Jun 03 11:24 : client: [27] closed
+Jun 03 11:32 : client: [28] opened from [::1]:57940
+Jun 03 11:33 : client: [28] closed
+Jun 03 11:33 : client: [29] opened from [::1]:57950
+Jun 03 11:35 : client: [29] closed
+Jun 03 11:35 : client: [30] opened from [::1]:57962
+Jun 03 11:36 : client: [30] closed
+Jun 03 11:36 : client: [31] opened from [::1]:57976
+Jun 03 11:37 : player: played "MEGA_HITS_2019_Summer_Mix.mp3"
+Jun 03 11:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 03 11:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 03 11:37 : client: [0] opened from [::1]:35630
+Jun 03 11:39 : player: played "MEGA_HITS_2019_Summer_Mix.mp3"
+Jun 03 11:53 : client: [0] closed
+Jun 03 11:53 : client: [1] opened from [::1]:35744
+Jun 03 11:54 : client: [1] closed
+Jun 03 11:54 : client: [2] opened from [::1]:35754
+Jun 03 13:56 : client: [2] closed
+Jun 03 13:56 : client: [3] opened from [::1]:36562
+Jun 03 13:57 : client: [3] closed
+Jun 03 13:57 : client: [4] opened from [::1]:36578
+Jun 03 13:58 : client: [4] closed
+Jun 03 13:58 : client: [5] opened from [::1]:36590
+Jun 03 13:59 : client: [5] closed
+Jun 03 13:59 : client: [6] opened from [::1]:36604
+Jun 03 14:06 : client: [6] closed
+Jun 03 14:06 : client: [7] opened from [::1]:36644
+Jun 03 14:07 : client: [7] closed
+Jun 03 14:07 : client: [8] opened from [::1]:36654
+Jun 03 14:08 : client: [8] closed
+Jun 03 14:08 : client: [9] opened from [::1]:36662
+Jun 03 14:09 : client: [9] closed
+Jun 03 14:09 : client: [10] opened from [::1]:36674
+Jun 03 14:11 : client: [10] closed
+Jun 03 14:11 : client: [11] opened from [::1]:36686
+Jun 03 14:11 : client: [11] closed
+Jun 03 14:11 : client: [12] opened from [::1]:36696
+Jun 03 14:12 : client: [12] closed
+Jun 03 14:12 : client: [13] opened from [::1]:36704
+Jun 03 14:12 : client: [13] closed
+Jun 03 14:12 : client: [14] opened from [::1]:36712
+Jun 03 14:13 : client: [14] closed
+Jun 03 14:13 : client: [15] opened from [::1]:36724
+Jun 03 14:13 : client: [15] closed
+Jun 03 14:13 : client: [16] opened from [::1]:36730
+Jun 03 14:14 : client: [16] closed
+Jun 03 14:14 : client: [17] opened from [::1]:36738
+Jun 03 14:14 : client: [17] closed
+Jun 03 14:14 : client: [18] opened from [::1]:36746
+Jun 03 14:15 : client: [18] closed
+Jun 03 14:15 : client: [19] opened from [::1]:36754
+Jun 03 14:15 : client: [19] closed
+Jun 03 14:15 : client: [20] opened from [::1]:36762
+Jun 03 14:16 : client: [20] closed
+Jun 03 14:16 : client: [21] opened from [::1]:36772
+Jun 03 14:16 : client: [21] closed
+Jun 03 14:16 : client: [22] opened from [::1]:36780
+Jun 03 14:17 : client: [22] closed
+Jun 03 14:17 : client: [23] opened from [::1]:36788
+Jun 03 14:18 : client: [23] closed
+Jun 03 14:18 : client: [24] opened from [::1]:36798
+Jun 03 14:18 : client: [24] closed
+Jun 03 14:18 : client: [25] opened from [::1]:36806
+Jun 03 14:18 : client: [25] closed
+Jun 03 14:19 : client: [26] opened from [::1]:36814
+Jun 03 14:19 : client: [26] closed
+Jun 03 14:19 : client: [27] opened from [::1]:36822
+Jun 03 14:19 : client: [27] closed
+Jun 03 14:19 : client: [28] opened from [::1]:36830
+Jun 03 14:20 : client: [28] closed
+Jun 03 14:20 : client: [29] opened from [::1]:36842
+Jun 03 14:21 : client: [29] closed
+Jun 03 14:21 : client: [30] opened from [::1]:36852
+Jun 03 14:22 : client: [30] closed
+Jun 03 14:22 : client: [31] opened from [::1]:36866
+Jun 03 14:23 : client: [31] closed
+Jun 03 14:23 : client: [32] opened from [::1]:36874
+Jun 03 14:23 : client: [32] closed
+Jun 03 14:23 : client: [33] opened from [::1]:36882
+Jun 03 14:24 : client: [33] closed
+Jun 03 14:24 : client: [34] opened from [::1]:36890
+Jun 03 14:25 : client: [34] closed
+Jun 03 14:25 : client: [35] opened from [::1]:36898
+Jun 03 14:25 : client: [35] closed
+Jun 03 14:25 : client: [36] opened from [::1]:36906
+Jun 03 14:26 : client: [36] closed
+Jun 03 14:26 : client: [37] opened from [::1]:36916
+Jun 03 14:26 : client: [37] closed
+Jun 03 14:26 : client: [38] opened from [::1]:36924
+Jun 03 14:27 : client: [38] closed
+Jun 03 14:27 : client: [39] opened from [::1]:36932
+Jun 03 14:28 : client: [39] closed
+Jun 03 14:28 : client: [40] opened from [::1]:36942
+Jun 03 14:28 : client: [40] closed
+Jun 03 14:28 : client: [41] opened from [::1]:36950
+Jun 03 14:29 : client: [41] closed
+Jun 03 14:29 : client: [42] opened from [::1]:36958
+Jun 03 14:30 : client: [42] closed
+Jun 03 14:30 : client: [43] opened from [::1]:36972
+Jun 03 14:31 : client: [43] closed
+Jun 03 14:31 : client: [44] opened from [::1]:36982
+Jun 03 14:32 : client: [44] closed
+Jun 03 14:32 : client: [45] opened from [::1]:36990
+Jun 03 14:32 : client: [45] closed
+Jun 03 14:32 : client: [46] opened from [::1]:37000
+Jun 03 14:33 : client: [46] closed
+Jun 03 14:33 : client: [47] opened from [::1]:37008
+Jun 03 14:34 : client: [47] closed
+Jun 03 14:34 : client: [48] opened from [::1]:37016
+Jun 03 14:34 : client: [48] closed
+Jun 03 14:34 : client: [49] opened from [::1]:37024
+Jun 03 14:35 : client: [49] closed
+Jun 03 14:35 : client: [50] opened from [::1]:37032
+Jun 03 14:45 : client: [50] closed
+Jun 03 14:45 : client: [51] opened from [::1]:37278
+Jun 03 14:47 : client: [51] closed
+Jun 03 14:47 : client: [52] opened from [::1]:37308
+Jun 03 14:48 : client: [52] closed
+Jun 03 14:48 : client: [53] opened from [::1]:37324
+Jun 03 14:49 : client: [53] closed
+Jun 03 14:49 : client: [54] opened from [::1]:37336
+Jun 03 14:50 : client: [54] closed
+Jun 03 14:50 : client: [55] opened from [::1]:37354
+Jun 03 14:57 : client: [55] closed
+Jun 03 14:57 : client: [56] opened from [::1]:37414
+Jun 03 14:59 : client: [56] closed
+Jun 03 14:59 : client: [57] opened from [::1]:37432
+Jun 03 15:02 : client: [57] closed
+Jun 03 15:02 : client: [58] opened from [::1]:37464
+Jun 03 15:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 03 15:04 : client: [58] closed
+Jun 03 15:04 : client: [59] opened from [::1]:37484
+Jun 03 15:05 : client: [59] closed
+Jun 03 15:05 : client: [60] opened from [::1]:37496
+Jun 03 15:07 : client: [60] closed
+Jun 03 15:07 : client: [61] opened from [::1]:37510
+Jun 03 15:10 : client: [61] closed
+Jun 03 15:10 : client: [62] opened from [::1]:37532
+Jun 03 15:11 : client: [62] closed
+Jun 03 15:11 : client: [63] opened from [::1]:37546
+Jun 03 15:15 : client: [63] closed
+Jun 03 15:15 : client: [64] opened from [::1]:37572
+Jun 03 15:16 : client: [64] closed
+Jun 03 15:16 : client: [65] opened from [::1]:37582
+Jun 03 15:18 : client: [65] closed
+Jun 03 15:18 : client: [66] opened from [::1]:37594
+Jun 03 15:18 : client: [66] closed
+Jun 03 15:18 : client: [67] opened from [::1]:37602
+Jun 03 15:19 : player: played "MEGA_HITS_2019_Summer_Mix.mp3"
+Jun 03 15:19 : exception: Not playing
+Jun 03 15:30 : client: [67] closed
+Jun 03 15:30 : client: [68] opened from [::1]:37632
+Jun 03 15:38 : client: [68] closed
+Jun 03 15:38 : client: [69] opened from [::1]:37658
+Jun 03 15:40 : client: [69] closed
+Jun 03 15:40 : client: [70] opened from [::1]:37668
+Jun 03 15:42 : client: [70] closed
+Jun 03 15:42 : client: [71] opened from [::1]:37686
+Jun 03 15:44 : client: [71] closed
+Jun 03 15:44 : client: [72] opened from [::1]:37704
+Jun 03 15:45 : client: [72] closed
+Jun 03 15:45 : client: [73] opened from [::1]:37712
+Jun 03 15:47 : client: [73] closed
+Jun 03 15:47 : client: [74] opened from [::1]:37724
+Jun 03 15:48 : client: [74] closed
+Jun 03 15:48 : client: [75] opened from [::1]:37732
+Jun 03 15:50 : client: [75] closed
+Jun 03 15:51 : client: [76] opened from [::1]:37742
+Jun 03 15:52 : client: [76] closed
+Jun 03 15:52 : client: [77] opened from [::1]:37752
+Jun 03 15:53 : client: [77] closed
+Jun 03 15:53 : client: [78] opened from [::1]:37762
+Jun 03 15:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 03 15:54 : client: [0] opened from [::1]:43730
+Jun 03 17:45 : client: [0] closed
+Jun 03 18:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 03 18:45 : client: [0] opened from [::1]:37254
+Jun 03 18:47 : client: [0] closed
+Jun 03 18:48 : client: [1] opened from [::1]:37274
+Jun 03 18:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 03 18:48 : client: [0] opened from [::1]:36380
+Jun 03 18:50 : client: [0] closed
+Jun 03 18:50 : client: [1] opened from [::1]:36414
+Jun 03 19:07 : client: [1] closed
+Jun 03 19:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 03 19:08 : client: [0] opened from [::1]:36690
+Jun 04 10:48 : client: [0] closed
+Jun 04 10:48 : client: [1] opened from [::1]:40120
+Jun 04 10:49 : client: [1] closed
+Jun 04 10:49 : client: [2] opened from [::1]:40130
+Jun 04 10:49 : client: [2] closed
+Jun 04 10:49 : client: [3] opened from [::1]:40138
+Jun 04 10:52 : client: [3] closed
+Jun 04 10:52 : client: [4] opened from [::1]:40162
+Jun 04 10:54 : client: [4] closed
+Jun 04 10:54 : client: [5] opened from [::1]:40178
+Jun 04 10:55 : client: [5] closed
+Jun 04 10:55 : client: [6] opened from [::1]:40190
+Jun 04 10:56 : client: [6] closed
+Jun 04 10:56 : client: [7] opened from [::1]:40200
+Jun 04 10:58 : client: [7] closed
+Jun 04 10:58 : client: [8] opened from [::1]:40220
+Jun 04 10:59 : client: [8] closed
+Jun 04 10:59 : client: [9] opened from [::1]:40228
+Jun 04 10:59 : client: [9] closed
+Jun 04 10:59 : client: [10] opened from [::1]:40236
+Jun 04 12:42 : exception: Not playing
+Jun 04 12:42 : exception: Not playing
+Jun 04 12:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 04 12:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 04 12:53 : client: [10] closed
+Jun 04 12:53 : client: [11] opened from [::1]:40746
+Jun 04 12:54 : client: [11] closed
+Jun 04 12:54 : client: [12] opened from [::1]:40758
+Jun 04 12:55 : client: [12] closed
+Jun 04 12:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 04 12:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 04 12:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 04 12:55 : client: [0] opened from [::1]:40788
+Jun 04 12:57 : client: [0] closed
+Jun 04 12:57 : client: [1] opened from [::1]:40802
+Jun 04 12:57 : client: [1] closed
+Jun 04 12:57 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 04 12:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 04 12:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 04 12:57 : client: [0] opened from [::1]:40828
+Jun 04 12:58 : client: [0] closed
+Jun 04 12:58 : client: [1] opened from [::1]:40838
+Jun 04 12:59 : player: played "Best Electro House Mix 2019 Remix.mp3"
+Jun 04 13:00 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 04 13:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 04 13:00 : client: [0] opened from [::1]:36830
+Jun 04 13:01 : client: [0] closed
+Jun 04 13:01 : client: [1] opened from [::1]:36848
+Jun 04 13:03 : client: [1] closed
+Jun 04 13:03 : client: [2] opened from [::1]:36858
+Jun 04 13:04 : client: [2] closed
+Jun 04 13:04 : client: [3] opened from [::1]:36868
+Jun 04 13:06 : client: [3] closed
+Jun 04 13:06 : client: [4] opened from [::1]:36878
+Jun 04 13:07 : client: [4] closed
+Jun 04 13:07 : client: [5] opened from [::1]:36886
+Jun 04 13:10 : client: [5] closed
+Jun 04 13:10 : client: [6] opened from [::1]:36898
+Jun 04 13:14 : client: [6] closed
+Jun 04 13:14 : client: [7] opened from [::1]:36908
+Jun 04 13:20 : client: [7] closed
+Jun 04 13:20 : client: [8] opened from [::1]:36922
+Jun 04 13:20 : player: played "Best Electro House Mix 2019 Remix.mp3"
+Jun 04 13:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 04 13:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 04 13:20 : client: [0] opened from [::1]:46532
+Jun 04 13:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 04 13:21 : player: played "MEGA_HITS_2019_Summer_Mix.mp3"
+Jun 04 13:21 : exception: Not playing
+Jun 04 14:33 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 04 14:33 : client: [0] opened from [::1]:43988
+Jun 04 15:32 : client: [0] closed
+Jun 04 15:32 : client: [1] opened from [::1]:44754
+Jun 04 15:35 : client: [1] closed
+Jun 04 15:36 : client: [2] opened from [::1]:44766
+Jun 04 15:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 04 15:37 : client: [0] opened from [::1]:46894
+Jun 04 15:39 : client: [0] closed
+Jun 04 15:39 : client: [1] opened from [::1]:46914
+Jun 04 15:40 : client: [1] closed
+Jun 04 15:40 : client: [2] opened from [::1]:46924
+Jun 04 15:40 : client: [2] closed
+Jun 04 15:40 : client: [3] opened from [::1]:46932
+Jun 04 15:41 : client: [3] closed
+Jun 04 15:41 : client: [4] opened from [::1]:46940
+Jun 04 15:41 : client: [4] closed
+Jun 04 15:41 : client: [5] opened from [::1]:46948
+Jun 04 15:47 : client: [5] closed
+Jun 04 15:47 : client: [6] opened from [::1]:47138
+Jun 04 15:48 : client: [6] closed
+Jun 04 15:48 : client: [7] opened from [::1]:47150
+Jun 05 19:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 05 19:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 06 08:47 : client: [7] closed
+Jun 06 08:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 06 08:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 06 08:47 : client: [0] opened from [::1]:52360
+Jun 06 08:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 06 11:45 : player: played "Best Electro House Mix 2019 Remix.mp3"
+Jun 06 11:49 : player: played "KOWALSKY MEG A VEGA - REMÉNY (Official).mp3"
+Jun 06 15:18 : client: [0] closed
+Jun 06 15:18 : client: [1] opened from [::1]:54142
+Jun 06 17:23 : client: [1] closed
+Jun 06 17:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 06 17:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 06 17:34 : client: [0] opened from [::1]:54914
+Jun 06 18:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 06 18:40 : player: played "MEGA_HITS_2019_Summer_Mix.mp3"
+Jun 06 18:40 : exception: Not playing
