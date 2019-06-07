@@ -15,6 +15,7 @@ import custom
 import mpdwidget
 import pacman
 import wttrweather
+import net
 
 
 # deffinie
@@ -479,7 +480,7 @@ def init_widgets_list():
             **widget_sep
         ),
 
-        widget.Net(
+        net.Net(
             icon_up="⬆",
             icon_down="⬇",
             interface="enp0s31f6",

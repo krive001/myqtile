@@ -21,7 +21,7 @@
 from __future__ import division
 
 from libqtile.log_utils import logger
-from . import base
+from libqtile.widget import base
 
 
 class Net(base.ThreadedPollText):
