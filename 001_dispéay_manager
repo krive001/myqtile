@@ -14,9 +14,9 @@ then
             sudo pacman -S lxdm --noconfirm --needed
             yay -S lxdm-themes --noconfirm --needed
             sudo cp etc/lxdm/lxdm.conf /etc/lxdm/
+            sudo systemctl disable $dm 
+            sudo systemctl enable lxdm
             sudo systemctl set-default graphical.target
-            sudo systemctl disable $dm.service 
-            sudo systemctl enable lxdm.service
             echo "LXDM installed." 
             exit 1
             ;;
