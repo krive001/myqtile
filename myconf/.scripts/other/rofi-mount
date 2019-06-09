@@ -1,0 +1,25 @@
+#!/bin/bash
+
+select=$(printf "%s\n%s" "mount" "unmount" | rofi -dmenu -p select:)
+home=$(echo $HOME)
+
+if [[ "$select" = "mount" ]]
+then
+    mountable=$(lsblk -lp | grep "part $" | awk '{print $1, "(" $4 ")"}')
+    [[ "$mountable" = "" ]] && exit 1
+    chosen=$(echo "$mountable" | rofi -dmenu -p select | awk '{print $1}')
+    [[ "$chosen" = "" ]] && exit 1
+    # [[ ! -f "/home/$USER/.config/rofi-mount/dirs" ]] && echo "File '~/.config/rofi-mount/dirs' does not exist" && exit 1
+    # [[ ! -f "${home}/mount" ]] && mkdir ${home}/mount
+    dir=$(printf "%s\n%s\n%s" "/mnt" "/run/mount" "${home}/mount" | rofi -dmenu -p Select:)
+    [[ ! -d "${home}/mount" ]] && mkdir ${dir}
+    [[ "$dir" = ""  ]] && exit 1
+    pkexec mount $chosen $dir && notify-send "MOUNT" "$chosen is mounted in $dir"
+elif [[ "$select" = "unmount" ]]
+then
+    unmountable=$(lsblk -lp | grep "part /" | awk '{print $1, "(" $4 ")"  " " $7}')
+    [[ "$unmountable" = "" ]] && exit 1
+    chosen=$(echo "$unmountable" | rofi -dmenu | awk '{print $1}')
+    [[ "$chosen" = "" ]] && exit 1
+    pkexec umount $chosen && notify-send "UNMOUNT" "Partition $chosen was unmounted"
+fi
