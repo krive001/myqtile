@@ -1,5 +1,11 @@
 #!/bin/bash
 
+# Artix install...
+
+# sudo pacman -Sy gnupg archlinux-keyring artix-keyring
+# sudo pacman-key --populate archlinux artix
+# sudo pacman -Syyu
+
 echo "Qtile install..."
 sudo pacman -S qtile python-setuptools python-xdg pango python-xcffib python-cairocffi python-dbus python-gobject  --noconfirm --needed
 echo "Install dependency..."
@@ -8,10 +14,11 @@ echo "WInstall fonts..."
 yay -S ttf-font-awesome-4 ttf-emojione --noconfirm --needed
 sudo pacman -S ttf-inconsolata 
 echo "Install other package..."
-sudo pacman -S feh network-manager-applet polkit polkit-gnome xcompmgr --noconfirm --needed
+yay -S xcb-util-xrm --noconfirm --needed
+sudo pacman -S feh polkit polkit-gnome xcompmgr --noconfirm --needed
 sudo pacman -S rofi chromium lxappearance qt5ct kvantum-qt5 arc-gtk-theme --noconfirm --needed
 echo "install terminal..."
 sudo pacman -S rxvt-unicode urxvt-perls --noconfirm --needed
 yay -S urxvt-resize-font-git --noconfirm --needed
 echo "thunar and plugins..."
-sudo pacman -S gvfs gvfs-mtp thunar --noconfirm --needed
+sudo pacman -S gvfs gvfs-mtp thunar scrot --noconfirm --needed
