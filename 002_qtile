@@ -2,9 +2,6 @@
 
 # Artix install...
 
-# sudo pacman -Sy gnupg archlinux-keyring artix-keyring
-# sudo pacman-key --populate archlinux artix
-# sudo pacman -Syyu
 
 echo "Qtile install..."
 sudo pacman -S qtile python-setuptools python-xdg pango python-xcffib python-cairocffi python-dbus python-gobject  --noconfirm --needed
